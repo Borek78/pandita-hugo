@@ -1,5 +1,9 @@
 ---
 title: Úvod
+menu:
+  main:
+    name: úvod
+    weight: 1
 ---
 
 # ÚVOD

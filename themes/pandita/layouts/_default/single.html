@@ -1,9 +1,9 @@
 <!DOCTYPE html>
 <html>
-  {{ partial "head.html" . }}
+  {{ partial "head" . }}
 
   <body>
-    {{ partial "header" (dict "Kind" .Kind "Template" "Single") }}
+    {{ partial "header" . }}
 
     <!--Content-->
     <main id="main">

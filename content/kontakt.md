@@ -1,6 +1,9 @@
 ---
 title: Kontakt
+menu:
+  main:
+    name: kontakt
+    weight: 4
 ---
 
-[Dobré otázky, dobré odpovědi - Shravasti
-Dhammika](texty/dobre-otazky-dobre-odpovedi.html)
+# Kontakt
