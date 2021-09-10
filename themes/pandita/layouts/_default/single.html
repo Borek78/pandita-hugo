@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+  {{ partial "head.html" . }}
+
+  <body>
+    {{ partial "header" (dict "Kind" .Kind "Template" "Single") }}
+
+    <!--Content-->
+    <main id="main">
+      <div id="web-under-construction">
+        Obsah tohoto webu zatím hledá své konečné znění.
+      </div>
+
+      <div id="page">
+        <div id="text-in-page">
+          <p>{{.Content}}</p>
+        </div>
+      </div>
+    </main>
+    {{ partial "footer.html" . }}
+
+    <script src="/js/script.js"></script>
+  </body>
+</html>
