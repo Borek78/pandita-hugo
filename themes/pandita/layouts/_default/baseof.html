@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html>
+<html lang="default: en">
   {{ partial "head" . }}
 
   <body>
@@ -12,13 +12,11 @@
       </div>
 
       <div id="page">
-        <div id="text-in-page">
-          SINGLE PAGES<br />
-          <p>{{.Content}}</p>
-        </div>
+        <div id="text-in-page">{{ block "main" . }} {{ end }}</div>
       </div>
     </main>
-    {{ partial "footer.html" . }}
+
+    {{ partial "footer" . }}
 
     <script src="/js/script.js"></script>
   </body>
