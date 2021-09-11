@@ -4,9 +4,6 @@
 name = "GiraffeAcademy Theme"
 
 description = "A theme used in the Giraffe Academy Hugo course"
-tags = []
-features = []
-
 
 [author]
   name = "Dalibor Pavlík"
