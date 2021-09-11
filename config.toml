@@ -3,6 +3,8 @@ languageCode = 'en-us'
 title = 'My New Hugo Site'
 theme = "pandita"
 
+disableKinds = ["section"]
+
 [markup]
   [markup.goldmark]
     [markup.goldmark.renderer]

@@ -1,3 +1,7 @@
-{{ define "main"}} {{ with .Site.GetPage "/uvod" }} {{ .Content }}<br />
+{{ define "main"}}
 
-{{end}} {{end}}
+{{ with .Site.GetPage "/uvod" }} 
+{{ .Content }}
+{{end}}
+
+{{end}}
