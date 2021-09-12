@@ -1,3 +1,41 @@
+.arrow-wrapper:hover {
+  border: 0px solid white;
+}
+
+.circle:hover {
+  background-color: #b7542d;
+}
+
+.circle {
+  background-color: white;
+  border: 2px solid #b7542d;
+  width: 30px;
+  height: 30px;
+
+  border-radius: 50%;
+  margin-right: -100px;
+  float: right;
+  margin-top: 15px;
+}
+
+.arrow-wrapper {
+  border: 0px solid #b7542d;
+}
+
+.arrow {
+  display: inline-block;
+  margin-top: 12px;
+  margin-left: 8px;
+  width: 12px;
+  height: 12px;
+  border-top: 2px solid;
+  border-right: 2px solid;
+  border-color: inherit;
+  -moz-transform: rotate(-45deg);
+  -webkit-transform: rotate(-45deg);
+  transform: rotate(-45deg);
+}
+
 .s-pozdravem {
   margin-bottom: -10px;
 }
