@@ -2,7 +2,7 @@
 title: Texty
 menu:
   main:
-    name: texty
+    name: Texty
     weight: 3
 ---
 
@@ -10,3 +10,5 @@ menu:
 
 [Dobré otázky, dobré odpovědi - Shravasti
 Dhammika](/texty/dobre-otazky-dobre-odpovedi)
+
+<script src="/js/arrow-script.js"></script>

@@ -2,7 +2,7 @@
 title: Úvod
 menu:
   main:
-    name: úvod
+    name: Úvod
     weight: 1
 ---
 
@@ -22,3 +22,5 @@ Celý tento web si můžete stáhnout pro offline studium. A nejen to, Pandita.c
 <b>Tip:</b>
 Pro všechny čtenáře je připavena jedna funkce, která usnadňuje používání tohoto webu: pokud kliknete na horní navigační lištu, kamkoli mimo viditelné odkazy, dostanete se zpět do horní části stránky.
 </div>
+
+<script src="/js/arrow-script.js"></script>

@@ -1,4 +1,7 @@
+console.log("ahoj");
+console.log("ahoj");
 // defining variables and constants
+
 let prevScrollPos = window.pageYOffset;
 let scroll_change = 0;
 const menuContainer = document.querySelector("#menu-container");

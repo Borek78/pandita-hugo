@@ -85,8 +85,20 @@ a.blue:hover {
 /*this what happens when screen width < 600*/
 
 @media only screen and (max-width: 600px) {
+  .padding-top-main {
+    padding-top: 40px;
+  }
+
+  .circle {
+    display: none;
+  }
+
   #main {
-    padding-top: 00px;
+    padding-top: 0px;
+  }
+
+  .padding-top-main {
+    padding-top: 40px;
   }
 
   .mobile-circle-wrapper {
@@ -160,4 +172,8 @@ a.blue:hover {
     -o-transform: rotate(270deg); /* Opera */
     transform: rotate(270deg);
   }
+}
+
+.hide-circle {
+  display: none;
 }
