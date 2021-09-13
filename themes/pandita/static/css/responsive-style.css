@@ -85,6 +85,14 @@ a.blue:hover {
 /*this what happens when screen width < 600*/
 
 @media only screen and (max-width: 600px) {
+  #main {
+    padding-top: 00px;
+  }
+
+  .mobile-circle-wrapper {
+    display: block;
+  }
+
   a.menu-item {
     display: none;
   }

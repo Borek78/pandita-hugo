@@ -1,3 +1,57 @@
+/*circle navigation mobile*/
+.mobile-circle-wrapper {
+  width: 600px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 15px;
+  margin-top: 15px;
+  display: none;
+}
+
+.arrow-wrapper:hover {
+  border: 0px solid white;
+}
+
+.circle:hover {
+  background-color: #b7542d;
+}
+
+.mobile-circle:hover {
+  background-color: #b7542d;
+  color: white;
+  
+}
+
+.mobile-circle {
+  background-color: white;
+  border: 2px solid #b7542d;
+  width: 30px;
+  height: 30px;
+
+  border-radius: 50%;
+  margin-right: -100px;
+  margin-left: 20px;
+}
+}
+
+.arrow-wrapper {
+  border: 0px solid #b7542d;
+}
+
+.arrow {
+  display: inline-block;
+  margin-top: 12px;
+  margin-left: 8px;
+  width: 12px;
+  height: 12px;
+
+  border-color: inherit;
+  -moz-transform: rotate(-45deg);
+  -webkit-transform: rotate(-45deg);
+  transform: rotate(-45deg);
+}
+
+/*circle navigation desktop*/
 .arrow-wrapper:hover {
   border: 0px solid white;
 }
