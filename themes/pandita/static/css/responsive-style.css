@@ -82,18 +82,13 @@ a.blue:hover {
   margin-top: -5.5px;
 }
 
-/*this what happens when screen width < 600*/
-
-@media only screen and (max-width: 600px) {
-  .padding-top-main {
-    padding-top: 40px;
-  }
-
+/*this what happens when screen width < 700 - CIRCLE*/
+@media only screen and (max-width: 720px) {
   .circle {
     display: none;
   }
 
-  #main {
+  .main {
     padding-top: 0px;
   }
 
@@ -104,7 +99,10 @@ a.blue:hover {
   .mobile-circle-wrapper {
     display: block;
   }
+}
+/*this what happens when screen width < 600*/
 
+@media only screen and (max-width: 600px) {
   a.menu-item {
     display: none;
   }

@@ -171,13 +171,13 @@ h4 {
   background-color: white;
 }
 
-#main {
+.main {
   padding-bottom: 40px;
   background-color: #efefef;
   padding-top: 40px;
 }
 
-#main-padding-top-40 {
+.main-padding-top-40 {
   padding-bottom: 40px;
   background-color: #efefef;
   padding-top: 40px;
