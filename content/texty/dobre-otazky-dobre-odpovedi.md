@@ -7,7 +7,7 @@ title: Dobré otázky, dobré odpovědi - úvod do buddhismu formou otázek a od
 autor: Shravasti Dhammika<br>
 překlad: Dalibor Pavlík<br><br>
 
-[PŘEDMLUVA](/texty/dobre-otazky-dobre-odpovedi/0-predmluva) <br><br>
+[PŘEDMLUVA](/texty/dobre-otazky-dobre-odpovedi/0-predmluva.html) <br><br>
 
 <span>1.</span> [CO JE BUDDHISMUS](/texty/dobre-otazky-dobre-odpovedi/1-co-je-buddhismus)
 

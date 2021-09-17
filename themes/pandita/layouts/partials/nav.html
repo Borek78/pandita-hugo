@@ -1,9 +1,28 @@
-<a class="menu-item" href="../../uvod/">ÚVOD</a>
+
+
+<a class="menu-item" href="{{ "uvod.html" | absURL }}">ÚVOD</a>
+<a class="menu-item" href="{{ "autori.html" | absURL }}">AUTOŔI</a>
+<a class="menu-item" href="{{ "texty.html" | absURL }}">TEXTY</a>
+<a class="menu-item" href="{{ "kontakt.html" | absURL }}">KONTAKT</a>
+
+
+
+<!--<a class="menu-item" href="/uvod/">ÚVOD</a>
 <a class="menu-item" href="/autori/">AUTOŘI</a>
 <a class="menu-item" href="/texty/">TEXTY</a>
-<a class="menu-item" href="/kontakt/">KONTAKT</a>
+<a class="menu-item" href="/kontakt/">KONTAKT</a>-->
+
+<!--{{ range .Site.Menus.main }}<br />
+
+<a class="menu-item" href="{{ .URL }}">{{ .Name }}</a><br />
+{{end}} <br />-->
+
+<!--<br /><br /><br />
+<br /><br /><br />
+<br /><br /><br />
 
 {{ range .Site.Menus.main }}
 
-<!-- <a class="menu-item" href="{{ .URL }}">{{ .Name }}</a> -->
-{{end}}
+<a class="menu-item" href=""></a><br />
+
+{{end}}-->

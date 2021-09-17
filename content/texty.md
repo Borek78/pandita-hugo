@@ -9,6 +9,6 @@ menu:
 # TEXTY
 
 [Dobré otázky, dobré odpovědi - Shravasti
-Dhammika](/texty/dobre-otazky-dobre-odpovedi)
+Dhammika](/texty/dobre-otazky-dobre-odpovedi.html)
 
 <script src="/js/arrow-script.js"></script>

@@ -1,9 +1,13 @@
-baseURL = 'ahoj'
+baseURL = ''
 languageCode = 'en-us'
 title = 'My New Hugo Site'
 theme = "pandita"
 
 disableKinds = ["section"]
+
+uglyURLs = "true" 
+relativeURLs = "true"
+
 
 [markup]
   [markup.goldmark]
@@ -11,7 +15,15 @@ disableKinds = ["section"]
       unsafe = true
       xhtml = false
 
-relativeURLs = "true"
+  
+# https://github.com/Borek78/pandita
+
+
+
+
+
+
+
 
 
 
