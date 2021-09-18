@@ -1,5 +1,6 @@
 ---
 title: Co je buddhismus
+levelUp: "texty/dobre-otazky-dobre-odpovedi.html"
 ---
 
 # Co je buddhismus

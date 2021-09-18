@@ -1,6 +1,7 @@
 ---
 title: Pět předpisů - základ buddhistické morálky
-breadcrumbs: Pět předpisů
+
+levelUp: "texty/dobre-otazky-dobre-odpovedi.html"
 ---
 
 # 4. Pět předpisů

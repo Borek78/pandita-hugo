@@ -11,8 +11,10 @@
         Obsah tohoto webu zatím hledá své konečné znění.
       </div>
 
+      {{ .Params.levelUp }}
+      
       <p>
-        <a href="../">
+        <a href="{{ "{{ .Params.level-up }}" | relURL }}">
           <div class="mobile-circle-wrapper">
             <div class="mobile-circle">
               <div class="arrow-wrapper">
@@ -22,6 +24,7 @@
           </div>
         </a>
       </p>
+
       <!--
       <a href="#"
         >lůkj
@@ -34,7 +37,8 @@
 
       <div id="page">
         <div id="text-in-page">
-          <a href="../">
+          <!--<a href="{{ .Params.levelUp }}">-->
+          <a href="{{ (.Params.levelUp) | relURL }}">
             <span class="circle">
               <div class="arrow-wrapper">
                 <span class="arrow"></span>

@@ -1,7 +1,8 @@
 ---
 layout: default
 title: Moudrost a soucit
-breadcrumbs: Moudrost a soucit
+
+levelUp: "texty/dobre-otazky-dobre-odpovedi.html"
 ---
 
 # Moudrost a soucit

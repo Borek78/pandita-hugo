@@ -1,5 +1,6 @@
 ---
 title: Znovuzrozování - buddhistický pohled na existence
+levelUp: "texty/dobre-otazky-dobre-odpovedi.html"
 ---
 
 # Znovuzrozování

@@ -1,5 +1,6 @@
 ---
 title: Historie buddhismu
+levelUp: "texty/dobre-otazky-dobre-odpovedi.html"
 ---
 
 # Historie buddhismu

@@ -1,7 +1,6 @@
 ---
-layout: default
 title: Mniši a mnišky - klášterní instituce v buddhismu
-breadcrumbs: Mnišy a mnišky
+levelUp: "texty/dobre-otazky-dobre-odpovedi.html"
 ---
 
 # Mniši a mnišky

@@ -1,5 +1,6 @@
 ---
 title: Základní buddhistické koncepty
+levelUp: "texty/dobre-otazky-dobre-odpovedi.html"
 ---
 
 # Základní buddhistické koncepty

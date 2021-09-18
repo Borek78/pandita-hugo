@@ -1,12 +1,14 @@
+# https://github.com/Borek78/pandita
 baseURL = ''
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'Pandita.cz'
 theme = "pandita"
 
 disableKinds = ["section"]
 
-uglyURLs = "true" 
+uglyURLs = "true"
 relativeURLs = "true"
+
 
 
 [markup]
@@ -16,7 +18,10 @@ relativeURLs = "true"
       xhtml = false
 
   
-# https://github.com/Borek78/pandita
+
+# uglyURLs = "true" 
+# relativeURLs = "true"
+
 
 
 

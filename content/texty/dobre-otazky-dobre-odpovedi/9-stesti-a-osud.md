@@ -1,7 +1,6 @@
 ---
-layout: default
 title: Štěstí a osud - věří buddhisté na osud?
-breadcrumbs: Štěstí a osud
+levelUp: "texty/dobre-otazky-dobre-odpovedi.html"
 ---
 
 # Štěstí a osud

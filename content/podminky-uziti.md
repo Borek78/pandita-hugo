@@ -1,5 +1,6 @@
 ---
 title: Podmínky užití
+levelUp: "uvod.html"
 ---
 
 # Podmínky užití

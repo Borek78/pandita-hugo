@@ -1,7 +1,6 @@
 ---
-layout: default
 title: Buddhova slova
-breadcrumbs: Buddhova slova
+levelUp: "texty/dobre-otazky-dobre-odpovedi.html"
 ---
 
 # Buddhova slova

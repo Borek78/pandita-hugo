@@ -1,5 +1,6 @@
 ---
 title: Buddhistické svaté texty
+levelUp: "texty/dobre-otazky-dobre-odpovedi.html"
 ---
 
 # Buddhistické svaté texty

@@ -1,5 +1,6 @@
 ---
 title: Stát se buddhistou
+levelUp: "texty/dobre-otazky-dobre-odpovedi.html"
 ---
 
 # Stát se buddhistou

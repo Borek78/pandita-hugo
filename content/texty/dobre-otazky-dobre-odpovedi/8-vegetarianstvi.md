@@ -1,7 +1,6 @@
 ---
-layout: default
 title: Vegetariánství - můžou buddhisté jíst maso?
-breadcrumbs: Vegetariánství
+levelUp: "texty/dobre-otazky-dobre-odpovedi.html"
 ---
 
 # Vegetariánství

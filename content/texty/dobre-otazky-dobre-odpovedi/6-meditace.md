@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Meditace - buddhistická meditace
-breadcrumbs: Meditace
+levelUp: "texty/dobre-otazky-dobre-odpovedi.html"
 ---
 
 # Meditace

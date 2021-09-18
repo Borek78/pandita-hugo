@@ -1,5 +1,6 @@
 ---
 title: Použité zkratky
+levelUp: "texty/dobre-otazky-dobre-odpovedi.html"
 ---
 
 # Použité zkratky

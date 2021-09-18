@@ -1,5 +1,6 @@
 ---
 title: Buddhismus a Bůh
+levelUp: "texty/dobre-otazky-dobre-odpovedi.html"
 ---
 
 # Buddhismus a Bůh

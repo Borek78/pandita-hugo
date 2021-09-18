@@ -14,7 +14,7 @@ Součástí projektu Pandita je nejen tento web, ale i YouTube kanál [PANDITA C
 
 Pro všechny, kteří by se chtěli podílet na tvorbě projektu Pandita, je k dispozici web [Jak tvořit Panditu.](https://borek78.github.io/jak-tvorit-panditu)<br><br>
 
-Celý tento web si můžete stáhnout pro offline studium. A nejen to, Pandita.cz vytváříme jako open source. To znamená, že kdokoli si může tento web stáhnout, umístit ho na nějakou vlastní doménu a dál s ním pracovat. Více informací najdete na [stránce Podmínky užití.](/podminky-uziti)<br><br><br>
+Celý tento web si můžete stáhnout pro offline studium. A nejen to, Pandita.cz vytváříme jako open source. To znamená, že kdokoli si může tento web stáhnout, umístit ho na nějakou vlastní doménu a dál s ním pracovat. Více informací najdete na [stránce Podmínky užití.](/podminky-uziti.html)<br><br><br>
 
 <a id="stahnout-panditu">Stáhnout Panditu</a><br>
 
