@@ -1,3 +1,11 @@
+.pandita-logo {
+  width: 25px;
+  height: 25px;
+  background-color: blue;
+  margin-left: -33px;
+  margin-bottom: -4px;
+}
+
 .hide-menu-container {
   position: fixed;
   overflow: hidden;
@@ -122,7 +130,11 @@ a#uplne-levy {
 
   margin-left: auto;
   margin-right: auto;
-  background-image: url("/images/pandita-logo-image-100.png");
+
+  /*background-image: url("{{ "images/pandita-logo-image-100.png" | relURL }}");  */
+
+  background-image: url({{"images/pandita-logo.png"|relURL}});
+  ackground-image: url(" /images/pandita-logo-image-100.png ");
   background-repeat: no-repeat;
   background-size: 25px 25px;
   background-position-x: 20px;

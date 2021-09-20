@@ -4,6 +4,8 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
 
+  {{ $main := resources.Get "css/template-style.css" }} {{ $main }}
+
   <!-- prettier-ignore -->
 
   <link rel="stylesheet" href="{{ "css/pages-style.css" | relURL }}">
@@ -53,4 +55,12 @@
     rel="stylesheet"
     href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css"
   />
+
+  <style>
+    .napis {
+      font-size: 0%;
+      display: block;
+      background-image: url('{{ "images/pandita-logo.png" | relURL }}');
+    }
+  </style>
 </head>
