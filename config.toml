@@ -9,8 +9,6 @@ disableKinds = ["section"]
 uglyURLs = "true"
 relativeURLs = "true"
 
-
-
 [markup]
   [markup.goldmark]
     [markup.goldmark.renderer]
