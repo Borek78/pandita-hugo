@@ -5,63 +5,38 @@ levelUp: "uvod.html"
 
 # Podmínky užití
 
-Web Pandita.cz tvoříme jako otevřený zdroj (open-source). To znamená, že web tvoříme tak, aby na práci všech jeho tvůrců mohl kdokoli a kdykoli navázat. <br><br>
+Aplikaci Pandita.cz tvoříme tak, aby její obsah byl české veřejnosti tak dostupný, jak jen to je možné. Zároveň bychom si přáli, aby na práci tvůrců aplikace mohl kdokoli navázat. <br><br>
 
-Je možné, že se v budoucnosti - blízké či vzdálené - objeví nějaký další dobrovolník nebo skupina dobrovolníků, která by také chtěla tvořit obsah o Buddhově v českém jazyce. Tato skupina si může web Pandita.cz stáhnout a měnit jeho obsah: může ho například doplňovat texty, které bude tvořit.<br><br>
+Je možné, že se v budoucnosti - blízké či vzdálené - objeví nějaký další dobrovolník nebo skupina dobrovolníků, která by také chtěla tvořit obsah o Buddhově učení v českém jazyce. Tato skupina si může web Pandita.cz stáhnout a měnit jeho obsah: může ho například doplňovat texty, které bude tvořit.<br><br>
 
 Výhodou tohoto přístupu je především možnost mezigenerační spolupráce. Na práci současné generace dobrovolníků může navázat v budoucnosti další generace.<br><br>
 
 Celý web Pandita.cz nemusí být ale používán pouze pro mezigenerační spolupráci. Celý web může být na internetu k dispozici i v několika verzích. Každá tato verze může být spravovaná a tvořená úplně jinou skupinou dobrovolníků. <br><br>
 
-<div class="underline">Šablona</div><br>
-Autor šablony (software) tohoto webu použil k jeho tvorbě jazyky HTML, CSS, Javascript,  Liquid a generátor statických stránek Jekyll. Autor šablony si přeje, aby byla k dispozici pouze pro komerční účely. Proto ji zveřejnil pod licení...<br><br>
+Abychom toto vše umožnili, rozhodli jsme se udělit následující oprávnění. Tato oprávnění platí pro všechny texty, u kterých není k dispozici jiná informace.
 
-<br><br>
-
-CC licence se ale na software nepoužívají. Proto jsem pro můj software (šablonu) hledal jinou licenci, která by komukoli umožnila moji práci použít. Běžně se pro tyto účely používá [MIT licence.](https://cs.wikipedia.org/wiki/Licence_MIT)<br><br>
-
-Šablonu tohoto webu tedy můžete použít za podmínek MIT licence.
-Celý text této licence je v souboru mit-license.txt, který je v kořenovém adresáři tohoto webu.<br><br>
-
-<a href="mit-license.txt" download>Stáhnout soubor mit-license.txt</a><br><br>
-
-A co musí případný uživatel šablony udělat, aby mohl šablonu použít? Zcela postačí, když uživatel v kořenovém adresáři ponechá soubor mit-license.txt.
-<br><br>
-
-V případě jakýchkoli dotazů na licence mě určitě můžete kontaktovat.<br><br>
-
-Dalibor Pavlík<br>
-cz.pandita@gmail.com<br><br>
-
-### Instrukce k užití
-
-Za podmínek výše zmíněných licencí může kdokoli používat texty na tomto webu i šablonu. To znamená, že kdokoli může celý tento web umístit i na nějakou vlastní doménu a může si ho upravit podle vlastních potřeb.<br><br>
-
-Odkaz pro stažení webu ve formě statických stránek.<br><br>
-<a href="../assets/jtp-static-pages-23-07-2021.zip" download>../assets/jtp-static-pages-23-07-2021.zip</a><br><br>
-
-Pokud byste si chtěli zkusit šablonu či obsah webu upravit, je lepší použít nějaký program, který je určen pro práci s kódem. Nejpouživanější je asi VS Code.<br><br>
-
-Stránka, na které můžete VS Code stáhnout.<br><br>
-
-<a class="do-not-break-out" href="https://code.visualstudio.com/Download" download>https://code.visualstudio.com/Download</a><br><br>
-
-K úpravě obsahu budete muset znát alespoň trochu CSS a HTML.<br><br>
-
-<a class="do-not-break-out" href="https://www.w3schools.com" download>https://www.w3schools.com</a><br><br>
-
-<a class="do-not-break-out" href="https://www.jakpsatweb.c" download>https://www.jakpsatweb.cz</a><br><br>
-
-Pokud byste chtěli s webem pracovat více, určitě by bylo jednodušší pracovat přímo s generátorem statických stránek, který se jmenuje Jekyll. Aktuálí verzi webu i s generátorem stránek Jekyll si můžete stáhnout na GitHubu. <br><br>
-
-<div class="do-not-break-out" >
-*[https://github.com/Borek78/jak-tvorit-panditu](https://github.com/Borek78/jak-tvorit-panditu)*
-</div><br>
-
-(pro stažení celého projektu kliněte na zelené tlačítko Code a poté na název souboru s příponou .zip.)<br><br>
-
-Návodů na instalci Jekyll je k dispozci mnoho. Pro Windows 10 jsem používal tento.<br><br>
-
-<div class="do-not-break-out" markdown="1">
-[https://www.youtube.com/watch?v=LfP7Y9Ja6Qc](https://www.youtube.com/watch?v=LfP7Y9Ja6Qc)
+<div class="citace">
+Aplikaci Pandita.cz, která je k dispozici ke stažení na <a href="uvod.html">stránce Úvod</a>, si může kdokoli stáhnout a umístit ji na nějakou vlastní doménu. Jedinou podmínkou je, že takto vytvořený web nebude užíván komerečně: nebude na něj umísťována reklama; nebudou na něj umísťovány odkazy na stránky, jejichž cílem je zisková činnost a podobně. 
 </div>
+
+Podobné oprávnění platí i pro celý projekt <a href="uvod.html"> Pandita-hugo</a>, pomocí kterého jsou jednotlivé stránky generovány.
+
+<div class="citace">
+Projekt Pandita-hugo, který je k dispozici na <a href="uvod.html">Githubu v repozitáři Pandita-hugo</a>, si může kdokoli stáhnout  a jakýmkoli způsobem upravit jeho obsah: je dovoleno jeho obsah doplňovat, mazat nebo jakýmkoli jiným způsobem upravovat. Je také dovoleno z upraveného obsahu generovat webové stránky a tyto stránky jakýmkoli způsobem zveřejnit či distribuovat.<br><br>
+
+Jedinou podmínkou je, že vytvořené webové stránky nebudou užívány komerčně: nebude na ně umísťována reklama; nebudou na ně umísťovány odkazy na stránky, jejichž cílem je zisková činnost a podobně.
+
+</div>
+
+O tom, co je projekt Pandita-hugo se více dozvíte na stránce <a href="uvod.html">Hugo - generátor statických stránek</a>, která je na webu <a href="uvod.html">Jak tvořit Panditu.</a><br><br>
+
+Dvě výše uvedená oprávnění neplatí pro ty texty a knihy, ke kterým je připojené jiné oprávnění (licenční poznámka). Jedná se především o texty:
+
+<ul>
+<li>
+s jejichž autory a překladately jsme v kontaktu
+</li>
+<li>
+které byly zveřejněny pod některou z Creative Commons licencí
+</li>
+</ul>

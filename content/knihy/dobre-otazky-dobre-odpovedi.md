@@ -38,8 +38,19 @@ překlad: Dalibor Pavlík<br><br>
 
 <span>14.</span> [BUDDHOVA SLOVA](/knihy/dobre-otazky-dobre-odpovedi/14-buddhova-slova.html)<br><br>
 
-[POUŽITÉ ZKRATKY](/knihy/dobre-otazky-dobre-odpovedi/pouzite-zkratky.html)<br>
+[POUŽITÉ ZKRATKY](/knihy/dobre-otazky-dobre-odpovedi/pouzite-zkratky.html)<br><br>
 
-<span class="material-icons pdf">
-picture_as_pdf
-</span>
+<span class="underline">O autorovi</span><br>
+Ctihodný Shravasti Dhammika se narodil v Austrálii a stal se mnichem v roce 1976. Žil mnoho let na Srí Lance a v Singapuru a je autorem mnoha knih o buddhismu a o tématech, která s ním souvisí. V této knize autor velmi živě, stručně a jasně odpovídá na otázky, které si lidé kladou při první kontaktu s Buddhovým učením.<br><br>
+
+<span class="underline">Oprávnění</span><br>
+Kdokoli smí tuto knihu:
+
+<ul>
+<li>jakýmkoli způsobem zveřejnit či distribuovat</li>
+<li>vytisknout pro své přátele nebo pro účely vzdělávání</li>
+<li>vytisknout i pro komerční distribuci: je dovoleno tuto knihu
+vytisknout a prodávat</li>
+<li>vytvořit z této knihy audioknihu a tuto knihu jakýmkoli způsobem distribuovat - umístit ji například na svůj YouTube kanál</li>
+<li>vytvořit z této knihy audioknihu a tuto audioknihu distribuovat komerčním způsobem: je dovoleno prodávat audioknihu, která vznikne z této knihy</li>
+</ul>

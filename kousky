@@ -1,2 +1,18 @@
 # uglyURLs = "true" 
 # relativeURLs = "true"
+
+
+<div class="underline">Šablona</div><br>
+
+Obsah webové aplikace Pandita.cz lze zobrazit pomocí mnoha různých šablon. Mnoho takových šablon je k dispozici na stránce <a href="uvod.html">Hugo Themes</a>.<br><br>
+
+V tuto chvíli používáme šablonu Pandita, který byla vytvořena přímo pro celý projekt Pandita. Tuto šablonu její autor vytvořil pomocí jazyků HTML, CSS, Javascript a GO. Autor šablony si přeje, aby byla šablona volně k dispozici pro nekomrční účely, a proto se rozhodl ji publikovat pod licencí...
+
+<br><br>
+
+Šablonu Pandita tedy může kdokoli použít použít za podmínek MIT licence. Celý text této licence je v souboru mit-license.txt, který je v kořenovém adresáři tohoto webu.<br><br>
+
+<a href="mit-license.txt" download>Stáhnout soubor mit-license.txt</a><br><br>
+
+A co musí případný uživatel šablony udělat, aby mohl šablonu použít? Zcela postačí, když uživatel v kořenovém adresáři ponechá soubor mit-license.txt.
+<br><br>
