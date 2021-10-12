@@ -32,7 +32,7 @@ překlad: Dalibor Pavlík<br><br>
 
 <span>11.</span> [BUDDHISTICKÉ SVATÉ TEXTY](/knihy/dobre-otazky-dobre-odpovedi/11-buddhisticke-svate-texty.html)
 
-<span>12.</span> [HISTORIE BUDDHISMU](/kinhy/dobre-otazky-dobre-odpovedi/12-historie-buddhismu.html)
+<span>12.</span> [HISTORIE BUDDHISMU](/knihy/dobre-otazky-dobre-odpovedi/12-historie-buddhismu.html)
 
 <span>13.</span> [STÁT SE BUDDHISTOU](/knihy/dobre-otazky-dobre-odpovedi/13-stat-se-buddhistou.html)
 
@@ -43,6 +43,7 @@ překlad: Dalibor Pavlík<br><br>
 <span class="underline">O autorovi</span><br>
 Ctihodný Shravasti Dhammika se narodil v Austrálii a stal se mnichem v roce 1976. Žil mnoho let na Srí Lance a v Singapuru a je autorem mnoha knih o buddhismu a o tématech, která s ním souvisí. V této knize autor velmi živě, stručně a jasně odpovídá na otázky, které si lidé kladou při první kontaktu s Buddhovým učením.<br><br>
 
+<div style="display:none">
 <span class="underline">Oprávnění</span><br>
 Kdokoli smí tuto knihu:
 
@@ -54,3 +55,4 @@ vytisknout a prodávat</li>
 <li>vytvořit z této knihy audioknihu a tuto knihu jakýmkoli způsobem distribuovat - umístit ji například na svůj YouTube kanál</li>
 <li>vytvořit z této knihy audioknihu a tuto audioknihu distribuovat komerčním způsobem: je dovoleno prodávat audioknihu, která vznikne z této knihy</li>
 </ul>
+</div>

@@ -17,4 +17,8 @@ Během svého mnišského tréninku praktikoval pod různými učiteli z Malajsi
 
 Při pobytu v džungli v Sarawaku (východní Malajsie) onemocněl malárií a jeho zdraví ho přinutilo se usadit. Založil poustevnu Santisukharama v Kota Tinggi, Johoru (Malajsie), kde od roku 1984 začal sám vyučovat meditaci vipassaná a mettá.Následně vedl také mnoho meditačních kurzů po celé zemi a inspiroval založení dalších meditačních center v Malajsii.<br><br>
 
-Významným milníkem v jeho učitelské činnosti byl rok 1995, kdy začal vyučovat meditaci i v zahraničí. Od té doby již vedl kurzy v Austrálii, na Novém Zélandu, v Hongkongu, mnoha zemích Evropy a Spojených států. Od roku 1999 vyučoval meditaci vipassaná a mettá také v Česku a na Slovensku. V současnosti žije v Itálii.
+Významným milníkem v jeho učitelské činnosti byl rok 1995, kdy začal vyučovat meditaci i v zahraničí. Od té doby již vedl kurzy v Austrálii, na Novém Zélandu, v Hongkongu, mnoha zemích Evropy a Spojených států. Od roku 1999 vyučoval meditaci vipassaná a mettá také v Česku a na Slovensku. V současnosti žije v Itálii.<br><br>
+
+<div class="licence-v-paticce">
+Tento článek je publikován za podmínek licence <a href="https://creativecommons.org/licenses/by-sa/3.0/">CC-BY SA</a>. Byl převzat <a href="https://cs.wikipedia.org/wiki/Sujiva">z Wikipedie</a> a následně byl doplněn.</a>
+</div>

@@ -21,3 +21,7 @@ V roce 2019 se bhante Sujato přestěhoval do Sydney, kde založil Lokanta Vihar
 Bhante Sujato, společně se svým učitelem Ajahnem Brahmem, se podílel na znovuobnovení ordinace bhikkhuni v Lesní tradici Ajahna Chah. Sujato společně s Ajahnem Brahmem a dalšími učenci jako je např. Bhikkhu Analayo došel k závěru, že neexistuje žádný platný důvod pro to, aby nemohl být řád bhikkhuni znovu obnoven. Ordinace mnišek do řádu bhikkhuni později vedla k vyloučení linie Ajaha Brahma z Thajské lesní tradice.<br><br>
 
 Přednášky Ajahna Sujata jsou k dispozici na YouTube kanálu Centrum Javorie.<br><br>
+
+<div class="licence-v-paticce">
+Tento článek je publikován za podmínek licence <a href="https://creativecommons.org/licenses/by-sa/3.0/">CC-BY SA</a>. Vznikl překladem a zkrácením anglicky psaného článku Bhante Sujato, který je k dispozici <a href="https://en.wikipedia.org/wiki/Bhante_Sujato">na Wikipedii.</a> Fotografie byla převzata ze <a href="http://sasana.wikidot.com/sujato-bhikkhu">sasana.pl</a> a k dispozici je za podmínek licence <a href="https://creativecommons.org/licenses/by-sa/3.0/">CC-BY NC SA</a>.
+</div>

@@ -16,4 +16,4 @@ V pozdějších letech praktikoval meditaci pod vedením mnoha známých učitel
 
 Pro Ashina Ottamu je charakteristické, že předkládá a vysvětluje principy dávné Buddhovy nauky tak, aby se člověk současné doby cítil plně osloven, získal hlubší životní orientaci a začal praktikovat cestu, která ho povede k poznání a vnitřnímu osvobození.<br><br>
 
-Ashin Ottama žije v současnosti v buddhistickém lesním klášteře Muttodaya v Německu. Některé jeho přednášky jsou k dispozici na YouTube kanálu Bodhi pala.<br><br>
+Ashin Ottama žije v současnosti v buddhistickém lesním klášteře Muttodaya v Německu. Některé jeho přednášky jsou k dispozici na [YouTube kanálu Bodhi pala.]()<br><br>

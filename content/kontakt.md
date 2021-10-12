@@ -36,5 +36,6 @@ cz.pandita@gmail.com
 [Pražské centrum Lotus](https://www.centrumlotus.cz/)<br>
 [Buddhaweb](https://www.buddhaweb.cz/)<br>
 
+</div>
+
 <script src="/js/arrow-script.js"></script>
-<div>

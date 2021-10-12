@@ -1,3 +1,18 @@
+span.green-button {
+  color: white;
+  background-color: green;
+  padding-left: 5px;
+  padding-right: 5px;
+  padding-bottom: 1px;
+  padding-top: 1px;
+  border-radius: 5px;
+}
+
+.licence-v-paticce {
+  font-size: 12px;
+  text-align: center;
+}
+
 .youtube:hover {
   color: orangered !important;
 }

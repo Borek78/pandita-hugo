@@ -8,9 +8,10 @@ menu:
 
 # Knihy
 
-[Dobré otázky, dobré odpovědi - Shravasti
-Dhammika](/knihy/dobre-otazky-dobre-odpovedi.html) <br><br><br><br>
+<a href="/knihy/dobre-otazky-dobre-odpovedi.html">Dobré otázky, dobré odpovědi - Shravasti Dhammika</a><br>
 
-Další knihy a texty jsou k dispozici na [google disku PANDITA](https://drive.google.com/drive/u/1/folders/11gL2ab0CPZUdpUUepmwEovLgplyc8VLj) ve [složce KNIHY A TEXTY](https://drive.google.com/drive/u/0/folders/1rhqIXLLZmpHMWN_phA6rfujqW7zJc8oe).
+<br><br><br>
+
+Další knihy a texty jsou k dispozici na [google disku PANDITA.](https://drive.google.com/drive/u/1/folders/11gL2ab0CPZUdpUUepmwEovLgplyc8VLj)
 
 <script src="/js/arrow-script.js"></script>
