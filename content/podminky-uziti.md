@@ -34,11 +34,19 @@ V některých případech pro šíření a distribuci textů platí jiná pravid
 </div><br>
 Texty na webu Pandita.cz lze zobrazit pomocí mnoha růzých šablon. V tuto chvíli celý web používá šablonu Pandita, která byla vytvořena speciálně pro web Pandita.cz. Její autor ji vytvořil pomocí jazyků HTML, CSS, Javascript a několika funkcí jazyka GO.<br><br>
 
-Rádi bychom zveřejnili šablonu Pandita.cz za podmínek licence, která umožňuje její použití pouze pro nekomerční účely. Zatím se nám ale nepodařilo najít takovou softwarovou licenci, který by umožnila použitití šablony pouze pro nekomerční učely. Proto pro šablonu Pandita, kterou v tuto chvíli web Pandita.cz používá, platí následující neformální oprávnění.
+Hledali jsme licenci, která by komukoli umožnila šablonu Pandita
 
-<div class="citace">
-Šablonu Pandita je volně k dispozici pro nekomerční užití. Kdokoli ji může použít pro jakýkoli web za podmínky, že na tento web nebude umísťována reklama, odkazy na jiné komerční weby a podobně.
-</div>
+<ul>
+<li>použít k nekomerčním účelům</li>
+<li>pozměnit</li>
+<li>pozměněnou verzi použít a šířit ji za stejných podmínek jako původní verzi</li>
+</ul>
+
+Takovou licencí je [PolyForm Noncommercial License 1.0.0](https://polyformproject.org/licenses/noncommercial/1.0.0/). Text této licence najdete i v kořenovém adresáři webu Pandita.cz. <br><br>
+
+Licence <a href="kousky.txt" download>PolyForm Noncommercial License 1.0.0</a><br><br>
+
+Pokud někdo další bude šablonu Pandita používat, měl by nechat text této licence v kořenovém adresáři.<br><br>
 
 <div class="underline">
 Důsledek - celý web
@@ -60,6 +68,14 @@ Projekt Pandita-hugo není nic jiného než jedna velká složka, ve které je:
 <li>šablona Pandita</li>
 </ul>
 
-Pro práci s projekt Pandita-hugo je potřeba znát alespo
+Pro práci s projektem Pandita-hugo je potřeba vědět, jak pracovat s generátorem statických stránek hugo. Dobrý návod je YouTube kanálu Mike Dine.<br><br>
+
+Pro práci s projektem Pandita-hugo bude také potřeba znát alespoň základy HTML a CSS. Zde je několik návodů:
+
+<ul>
+<li>jak psát web</li>
+<li>šablona Pandita</li>
+<li>šablona Pandita</li>
+</ul>
 
 Více o projektu Pandita-hugo najdete na stránce <span style="border-bottom: 1px dotted black">Hugo - generátor statických stránek</span> (tuto stránku zatím připravujeme).
