@@ -13,13 +13,16 @@ Výhodou tohoto přístupu je především možnost mezigenerační spolupráce.
 
 Celý web Pandita.cz nemusí být ale používán pouze pro mezigenerační spolupráci. Celý web může být na internetu k dispozici i v několika verzích. Každá tato verze může být spravovaná a tvořená úplně jinou skupinou dobrovolníků. <br><br>
 
-Abychom toto vše umožnili, rozhodli jsme se udělit následující oprávnění.<br>
+Abychom toto vše umožnili, rozhodli jsme se udělit následující oprávnění.<br><br>
 
-<div class="underline" style="margin-top:30px; margin-bottom:0px">
+<div class="underline" style="margin-top:10px; argin-bottom:0px">
 Texty
+</div><br>
+Stadnardně platí pro všechny texty na webu Pandita.cz následující oprávnění:
+
+<div class="citace" style="argin-top:13px" >
+Pokud to není uvedeno jinak, všechny texty na webu Pandita.cz jsou volně k distribuci pro nekomerční účely. To znamená, že kdokoli je smí použít na jekémkoli jiném webu či doméně. Jedinou podmínkou je, že tento web či doména nejsou využívány ke komerčním účelům: není na ně umísťována reklama, odkazy na jiné komerční weby a podobně.
 </div>
-<div class="citace" style="margin-top:13px" >
-Pokud to není uvedeno jinak, všechny texty na webu Pandita.cz jsou volně k distribuci pro nekomerční účely. To znamená, že kdokoli je smí použít na jekémkoli jiném webu či doméně. Jedinou podmínkou je, že tento web či doména nejsou využívány ke komerčním účelům: není na ně umísťována reklama, odkazy na jiné komerční weby a podobně.<br><br>
 
 V některých případech pro šíření a distribuci textů platí jiná pravidla. Je to v případech, kdy:
 
@@ -27,31 +30,32 @@ V některých případech pro šíření a distribuci textů platí jiná pravid
 <li>jsme v kontaktu s autory a máme od nich svolení distribuovat jejich práci za jiných podmínek</li>
 <li>jsou texty zvěřejněny pod některou z Creative Commons licencí</li>
 </ul>
-</div>
 
-<div class="underline" style="margin-top:10px; margin-bottom:8px">
+<div class="underline" style="margin-top:20px; margin-bottom:8px">
 Šablona
 </div><br>
 Texty na webu Pandita.cz lze zobrazit pomocí mnoha růzých šablon. V tuto chvíli celý web používá šablonu Pandita, která byla vytvořena speciálně pro web Pandita.cz. Její autor ji vytvořil pomocí jazyků HTML, CSS, Javascript a několika funkcí jazyka GO.<br><br>
 
-Hledali jsme licenci, která by komukoli umožnila šablonu Pandita
+Hledali jsme licenci (oprávnění), která by komukoli umožnila šablonu Pandita
 
 <ul>
 <li>použít k nekomerčním účelům</li>
 <li>pozměnit</li>
-<li>pozměněnou verzi použít a šířit ji za stejných podmínek jako původní verzi</li>
+<li>pozměněnou verzi použít a šířit ji za stejných podmínek jako původní verzi šablony</li>
 </ul>
 
-Takovou licencí je [PolyForm Noncommercial License 1.0.0](https://polyformproject.org/licenses/noncommercial/1.0.0/). Text této licence najdete i v kořenovém adresáři webu Pandita.cz. <br><br>
+Těmto podmínkám vyhovuje licence [PolyForm Noncommercial License 1.0.0](https://polyformproject.org/licenses/noncommercial/1.0.0/).
 
-Licence <a href="kousky.txt" download>PolyForm Noncommercial License 1.0.0</a><br><br>
-
-Pokud někdo další bude šablonu Pandita používat, měl by nechat text této licence v kořenovém adresáři.<br><br>
+<div class="citace">
+Šablona Pandita, kterou používá web Pandita.cz, je zveřejněna za podmínek licence 
+<a href="license.html">PolyForm Noncommercial License 1.0.0.</a>
+</a>
+</div>
 
 <div class="underline">
 Důsledek - celý web
 </div><br>
-Důsledkem předchozích dvou oprávnění je, že celý web Pandita.cz si kdokoli může stáhnou a může ho umístit na nějakou vlastní doménu za podmínky, že celý web nebude využíván ke komerčním účelům.
+Důsledkem předchozích dvou oprávnění je, že  kdokoli smí celý web umístit na nějakou vlastní doménu pod podmínkou, že web nebude využíván ke komerčním účelům.<br>
 
 ### Instrukce k užití
 
@@ -59,23 +63,31 @@ Tato část je pro všechny, kteří by web Pandita.cz chtěli umístit na něja
 
 Je snadné si celý web stáhnout ze [stránky Úvod](uvod.html) a nahrát ho pomocí FTP nebo pomocí rozhraní nějakého poskytovatele webhostingových služeb na nějakou doménu. <br><br>
 
-Pokud ale někdo bude chtít tvořit web Pandita.cz – doplňovat jeho obsah nebo ho mazat – bude se muset naučit pracovat s projektem Pandita-hugo, který je [ke stažení na Githubu.]() Pro stažení klikněte na zelené tlačítko <span class="green-button" >Code</span> a poté na položku DOWNLOAD ZIP.<br><br>
+Pokud ale někdo bude chtít tvořit web Pandita.cz – doplňovat jeho obsah nebo ho mazat – bude se muset naučit pracovat s projektem Pandita-hugo, který je [ke stažení na Githubu.](https://github.com/Borek78/pandita-hugo) Pro stažení klikněte na zelené tlačítko <span class="green-button" >Code</span> a poté na položku "Dawnload ZIP".<br><br>
 
 Projekt Pandita-hugo není nic jiného než jedna velká složka, ve které je:
 
 <ul>
 <li>obsah webu Pandita.cz</li>
-<li>šablona Pandita</li>
+<li>šablona Pandita.</li>
 </ul>
 
-Pro práci s projektem Pandita-hugo je potřeba vědět, jak pracovat s generátorem statických stránek hugo. Dobrý návod je YouTube kanálu Mike Dine.<br><br>
+Pro práci s projektem Pandita-hugo je potřeba vědět, jak pracovat s [generátorem statických stránek Hugo.](https://gohugo.io/) Přehledný návod je na YouTube kanálu [Mike Dane.](https://www.youtube.com/playlist?list=PLLAZ4kZ9dFpOnyRlyS-liKL5ReHDcj4G3)<br><br>
 
-Pro práci s projektem Pandita-hugo bude také potřeba znát alespoň základy HTML a CSS. Zde je několik návodů:
+Pro práci s projektem Pandita-hugo je také potřeba znát alespoň základy HTML a CSS. Zde je několik návodů:
 
 <ul>
-<li>jak psát web</li>
-<li>šablona Pandita</li>
-<li>šablona Pandita</li>
+
+<li><a href="https://cs.khanacademy.org/computing/computer-programming/html-css">Khanova akademie</a></li>
+
+<li><a href="https://www.youtube.com/watch?v=LULd0858mUQ">Video - HTML a CSS od základů</a></li>
+
+<li><a href="https://www.youtube.com/playlist?list=PLQ8x_VWW6AkvCiDzMEI5K9jW_1rsV9PTf"> Série videí - Tvorba webových stránek - HTML a CSS</a></li>
+
+<li><a href="https://www.youtube.com/playlist?list=PLQ8x_VWW6AksIzgE-LKqkwz4JMHh4AWVB">Série videí - Visual Studio Code - Jak psát rychlý a efektivní kód</a></li>
+
+<li><a href="https://www.w3schools.com/">W3Schools (anglicky)</a></li>
+
 </ul>
 
-Více o projektu Pandita-hugo najdete na stránce <span style="border-bottom: 1px dotted black">Hugo - generátor statických stránek</span> (tuto stránku zatím připravujeme).
+Více o práci s projektem Pandita-hugo najdete na stránce <a style="border-bottom: 1px dotted black" >Hugo - generátor statických stránek</a>, kterou připravujeme.

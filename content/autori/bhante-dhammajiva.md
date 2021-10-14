@@ -27,4 +27,4 @@ V roce 2016 založil bhante Dhammajiva organizaci Sati Pasala (www.satipasala.or
 
 Příspěvek bhanteho Dhammajivy pro zachování Buddhova učení pro budoucí generace pokračuje. Na pozvání různých buddhistických skupin každý rok vede meditační kurzy v Austrálii, Kanadě, na Novém zélandu, ve Velké británii, USA, Německu, Singapuru a na Slovensku, kam ho pravidelně zve Meditační centrum Javorie.<br><br>
 
-Přednášky Bhante Dhammajivy jsou k dispozici na [YouTube kanálu Centrum Javorie.]()<br><br>
+Přednášky Bhante Dhammajivy jsou k dispozici na [YouTube kanálu Centrum Javorie.](https://www.youtube.com/channel/UCcRMp4Z1dBfmAvcYd5B8CzA)<br><br>
