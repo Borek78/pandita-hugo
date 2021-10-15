@@ -1,5 +1,5 @@
-# https://github.com/Borek78/pandita
-baseURL = ''
+# https://borek78.github.io/pandita/
+baseURL = 'https://borek78.github.io/pandita/'
 languageCode = 'en-us'
 title = 'Pandita.cz'
 theme = "pandita"
