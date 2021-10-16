@@ -29,6 +29,7 @@ cz.pandita@gmail.com
 [Bodhi Olomouc](http://www.bodhi-olomouc.cz/)<br>
 [Bodhi Jeseníky](http://www.bodhi-olomouc.cz/)<br>
 [Dharma zdarma](http://www.dharmazdarma.cz/)<br>
+[Dhamma Plzeň](http://www.dhamma-plzen.org/)<br>
 
 ### Nejen jižní buddhismus
 

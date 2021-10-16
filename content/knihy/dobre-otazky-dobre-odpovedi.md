@@ -40,9 +40,6 @@ překlad: Dalibor Pavlík<br><br>
 
 [POUŽITÉ ZKRATKY](/knihy/dobre-otazky-dobre-odpovedi/pouzite-zkratky.html)<br><br>
 
-<span class="underline">O autorovi</span><br>
-Ctihodný Shravasti Dhammika se narodil v Austrálii a stal se mnichem v roce 1976. Žil mnoho let na Srí Lance a v Singapuru a je autorem mnoha knih o buddhismu a o tématech, která s ním souvisí. V této knize autor velmi živě, stručně a jasně odpovídá na otázky, které si lidé kladou při první kontaktu s Buddhovým učením.<br><br>
-
 <div style="display:none">
 <span class="underline">Oprávnění</span><br>
 Kdokoli smí tuto knihu:
