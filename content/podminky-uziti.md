@@ -21,7 +21,7 @@ Texty
 Stadnardně platí pro všechny texty na webu Pandita.cz následující oprávnění:
 
 <div class="citace" style="argin-top:13px" >
-Pokud to není uvedeno jinak, všechny texty na webu Pandita.cz jsou volně k distribuci pro nekomerční účely. To znamená, že kdokoli je smí použít na jekémkoli jiném webu či doméně. Jedinou podmínkou je, že tento web či doména nejsou využívány ke komerčním účelům: není na ně umísťována reklama, odkazy na jiné komerční weby a podobně.
+Pokud to není uvedeno jinak, všechny texty na webu Pandita.cz jsou volně k distribuci pro nekomerční účely. To znamená, že kdokoli je smí použít na jakémkoli jiném webu či doméně. Jedinou podmínkou je, že tento web či doména nejsou využívány ke komerčním účelům: není na ně umísťována reklama, odkazy na jiné komerční weby a podobně.
 </div>
 
 V některých případech pro šíření a distribuci textů platí jiná pravidla. Je to v případech, kdy:
@@ -55,13 +55,11 @@ Těmto podmínkám vyhovuje licence [PolyForm Noncommercial License 1.0.0](https
 <div class="underline">
 Důsledek - celý web
 </div><br>
-Důsledkem předchozích dvou oprávnění je, že  kdokoli smí celý web umístit na nějakou vlastní doménu pod podmínkou, že web nebude využíván ke komerčním účelům.<br>
+Důsledkem předchozích dvou oprávnění je, že  kdokoli smí celý web umístit na nějakou vlastní doménu pod podmínkou, že web nebude využíván ke komerčním účelům. Zároveň smí kdokoli obsah webu měnit: doplňovat jeho obsah a vybrané části odstranit.<br>
 
 ### Instrukce k užití
 
-Tato část je pro všechny, kteří by web Pandita.cz chtěli umístit na nějakou vlastní doménu.<br><br>
-
-Je snadné si celý web stáhnout ze [stránky Úvod](uvod.html) a nahrát ho pomocí FTP nebo pomocí rozhraní nějakého poskytovatele webhostingových služeb na nějakou doménu. <br><br>
+Je snadné si celý web stáhnout ze [stránky Úvod](uvod.html) a nahrát ho pomocí FTP nebo pomocí rozhraní nějakého poskytovatele webhostingových služeb na vlastní doménu. <br><br>
 
 Pokud ale někdo bude chtít tvořit web Pandita.cz – doplňovat jeho obsah nebo ho mazat – bude se muset naučit pracovat s projektem Pandita-hugo, který je [ke stažení na Githubu.](https://github.com/Borek78/pandita-hugo) Pro stažení klikněte na zelené tlačítko <span class="green-button" >Code</span> a poté na položku "Dawnload ZIP".<br><br>
 

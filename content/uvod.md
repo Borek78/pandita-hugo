@@ -18,13 +18,13 @@ Pro všechny, kteří by se chtěli podílet na tvorbě projektu Pandita, je k d
 
 Celý tento web si můžete stáhnout pro offline studium. A nejen to, Pandita.cz vytváříme jako otevřený vzdělávací zdroj. To znamená, že kdokoli si může tento web stáhnout, umístit ho na nějakou vlastní doménu a dál s ním pracovat. Více informací najdete na stránce [Podmínky užití.](/podminky-uziti.html)<br><br><br>
 
-<a id="stahnout-panditu">Stáhnout Panditu</a><br><br>
+<a id="stahnout-panditu" href="https://github.com/Borek78/pandita/archive/refs/heads/master.zip">Stáhnout Panditu</a><br><br>
 
 <div style="display:none" class="underline">
 Tip
 </div>
 
-<b>Tip:</b> Pokud kliknete na horní navigační lištu, kamkoli mimo viditelné odkazy, dostanete se zpět do horní části stránky. <br><br>
+<b>Tip:</b> Pokud kliknete na horní navigační lištu, kamkoli mimo viditelné odkazy, dostanete se zpět do horní části stránky. Tato funkce je k dispozici na všech stránkách. <br><br>
 
 <div class="underline" style="margin-bottom:20px">
 Sociální sítě
