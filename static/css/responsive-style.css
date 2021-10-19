@@ -103,6 +103,10 @@ a.blue:hover {
 /*this what happens when screen width < 600*/
 
 @media only screen and (max-width: 600px) {
+  #page #kontakt a {
+    line-height: 2;
+  }
+
   a.menu-item {
     display: none;
   }
