@@ -5,9 +5,9 @@ levelUp: "uvod.html"
 
 # Podmínky užití
 
-Webovou aplikaci Pandita.cz tvoříme tak, aby byl její obsah české veřejnosti co nejdostupnější. Zároveň bychom si přáli, aby na práci tvůrců aplikace mohl kdokoli navázat. <br><br>
+Webovou aplikaci Pandita.cz tvoříme tak, aby byl její obsah české a slovenské veřejnosti co nejdostupnější. Zároveň bychom si přáli, aby na práci tvůrců aplikace mohl kdokoli navázat. <br><br>
 
-Je možné, že se v budoucnosti – blízké či vzdálené – objeví nějaký další dobrovolník nebo skupina dobrovolníků, která by také chtěla tvořit obsah o Buddhově učení v českém jazyce. Tato skupina si může web Pandita.cz stáhnout a měnit jeho obsah: může ho například doplňovat texty, které bude tvořit.<br><br>
+Je možné, že se v budoucnosti – blízké či vzdálené – objeví nějaký další dobrovolník nebo skupina dobrovolníků, která by také chtěla tvořit obsah o Buddhově učení v českém nebo slovenském jazyce. Tato skupina si může web Pandita.cz stáhnout a měnit jeho obsah: může ho například doplňovat texty, které bude tvořit.<br><br>
 
 Výhodou tohoto přístupu je především možnost mezigenerační spolupráce. Na práci současné generace dobrovolníků může navázat v budoucnosti další generace.<br><br>
 
@@ -88,4 +88,4 @@ Pro práci s projektem Pandita-hugo je také potřeba znát alespoň základy HT
 
 </ul>
 
-Více o práci s projektem Pandita-hugo najdete na stránce <a style="border-bottom: 1px dotted black" >Hugo - generátor statických stránek</a>, kterou připravujeme.
+Více o práci s projektem Pandita-hugo najdete na stránce <a style="border-bottom: 1px dotted black" >Hugo - generátor statických stránek</a>. Tato stránka zatím není k dispozici, připravujeme ji.
