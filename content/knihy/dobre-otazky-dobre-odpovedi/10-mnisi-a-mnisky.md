@@ -3,7 +3,7 @@ title: Mniši a mnišky - klášterní instituce v buddhismu
 levelUp: "knihy/dobre-otazky-dobre-odpovedi.html"
 ---
 
-# Mniši a mnišky
+# 10. Mniši a mnišky
 
 <b>Klášterní instituce je v buddhismu velmi důležitá. Jaký smysl života mají mnišky a mniši a jak by se měli chovat?</b><br>
 

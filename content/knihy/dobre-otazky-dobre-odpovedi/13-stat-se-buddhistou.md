@@ -3,7 +3,7 @@ title: Stát se buddhistou
 levelUp: "knihy/dobre-otazky-dobre-odpovedi.html"
 ---
 
-# Stát se buddhistou
+# 13. Stát se buddhistou
 
 <b>To, co jste o buddhismu říkal, se mi zdá velmi zajímavé. Jak se můžu
 stát buddhistou?</b><br>

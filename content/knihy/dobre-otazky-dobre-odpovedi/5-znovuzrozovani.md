@@ -3,7 +3,7 @@ title: Znovuzrozování - buddhistický pohled na existence
 levelUp: "knihy/dobre-otazky-dobre-odpovedi.html"
 ---
 
-# Znovuzrozování
+# 5. Znovuzrozování
 
 <b>Odkud přicházíme a kam jdeme?</b><br>
 Na tuto otázku jsou tři možné odpovědi.<br><br>

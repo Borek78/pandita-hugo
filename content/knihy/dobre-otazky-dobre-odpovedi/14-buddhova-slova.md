@@ -3,7 +3,7 @@ title: Buddhova slova
 levelUp: "knihy/dobre-otazky-dobre-odpovedi.html"
 ---
 
-# Buddhova slova
+# 14. Buddhova slova
 
 Moudrost je očištěna ctností a ctnost je očištěna moudrostí. Kde je jedna z těchto kvalit, je i druhá. Ctnostný člověk je moudrý a moudrý je ctnostný. Kombinace těchto dvou kvalit je nazývána tou nejvyšší věcí na tomto světě. (D. I, 84) <br><br>
 

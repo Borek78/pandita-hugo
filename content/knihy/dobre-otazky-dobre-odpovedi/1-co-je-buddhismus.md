@@ -3,7 +3,7 @@ title: Co je buddhismus
 levelUp: "knihy/dobre-otazky-dobre-odpovedi.html"
 ---
 
-# Co je buddhismus
+# 1. Co je buddhismus
 
 <b>Co je buddhismus?</b><br>
 Pojem buddhismus je odvozen od slova „buddhi“, což znamená „probudit se“, a tak můžeme buddhismus považovat za filozofii probuzení. Tato filozofie má svůj původ ve zkušenosti muže jménem Siddhártha Gautama, později známého jako Buddha. On sám dosáhl probuzení ve věku 35 let. Buddhismus je nyní na zemi 2500 let a po celém světě má 300 milionů následovníků. Původně byl asijskou filozofií, ale asi před sto lety si začal získávat i sympatie lidí žijících na Západě.

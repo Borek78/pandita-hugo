@@ -5,7 +5,7 @@ title: Moudrost a soucit
 levelUp: "knihy/dobre-otazky-dobre-odpovedi.html"
 ---
 
-# Moudrost a soucit
+# 7. Moudrost a soucit
 
 <b>Často slyším o tom, jak buddhisté mluví o moudrosti a soucitu. Co
 tato dvě slova vlastně znamenají?</b><br>

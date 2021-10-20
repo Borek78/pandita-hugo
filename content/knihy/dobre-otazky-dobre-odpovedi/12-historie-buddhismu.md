@@ -3,7 +3,7 @@ title: Historie buddhismu
 levelUp: "knihy/dobre-otazky-dobre-odpovedi.html"
 ---
 
-# Historie buddhismu
+# 12. Historie buddhismu
 
 <b>Buddhismus je nyní náboženstvím velkého počtu lidí v mnoha zemích. Jak k tomu došlo?</b>
 

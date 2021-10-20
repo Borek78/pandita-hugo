@@ -3,7 +3,7 @@ title: Meditace - buddhistická meditace
 levelUp: "knihy/dobre-otazky-dobre-odpovedi.html"
 ---
 
-# Meditace
+# 6. Meditace
 
 <b>Co je to meditace?</b><br>
 Meditace je vědomé úsilí změnit to, jak mysl funguje. Pálijské slovo pro meditaci je bhávaná, což znamená „kultivovat“ nebo „rozvíjet“.<br><br>

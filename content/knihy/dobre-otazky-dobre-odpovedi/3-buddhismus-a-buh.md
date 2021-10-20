@@ -3,7 +3,7 @@ title: Buddhismus a Bůh
 levelUp: "knihy/dobre-otazky-dobre-odpovedi.html"
 ---
 
-# Buddhismus a Bůh
+# 3. Buddhismus a Bůh
 
 <b>Věří buddhisté v Boha?</b> <br>
 Ne, nevěří. Mají pro to několik důvodů. Buddha stejně jako moderní sociologové a psychologové věřil, že náboženské představy, především pak představa o Bohu, mají svůj původ ve strachu. Buddha říká:

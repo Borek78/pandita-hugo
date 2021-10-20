@@ -3,7 +3,7 @@ title: Štěstí a osud - věří buddhisté na osud?
 levelUp: "knihy/dobre-otazky-dobre-odpovedi.html"
 ---
 
-# Štěstí a osud
+# 9. Štěstí a osud
 
 <b>Co Buddha učil o magii a předpovídání budoucnosti?</b><br>
 Buddha považoval magii, předpovídání osudu, nošení kouzelných ochranných přívěsků, a věštění za neužitečné pověry a výslovně je svým žákům zakazoval provádět. Nazývá je dokonce nízkými:

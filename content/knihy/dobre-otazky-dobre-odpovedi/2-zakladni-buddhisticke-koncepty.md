@@ -3,7 +3,7 @@ title: Základní buddhistické koncepty
 levelUp: "knihy/dobre-otazky-dobre-odpovedi.html"
 ---
 
-# Základní buddhistické koncepty
+# 2. Základní buddhistické koncepty
 
 <b>Jaké jsou hlavní body Buddhova učení?</b><br>
 Mnoho z Buddhových rozprav se soustředí na Čtyři ušlechtilé pravdy. Nazývají se „čtyři“ proto, že jsou čtyři. „Ušlechtilé“ proto, že zušlechťují toho, kdo jim porozuměl a „pravdy“ proto, že se shodují se skutečností.<br><br>

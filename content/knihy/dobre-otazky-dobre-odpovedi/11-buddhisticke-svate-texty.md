@@ -3,7 +3,7 @@ title: Buddhistické svaté texty
 levelUp: "knihy/dobre-otazky-dobre-odpovedi.html"
 ---
 
-# Buddhistické svaté texty
+# 11. Buddhistické svaté texty
 
 <b>Téměř všechna náboženství mají nějaký druh svatých textů nebo bibli. Jakou svatou knihu má buddhismus?</b><br>
 

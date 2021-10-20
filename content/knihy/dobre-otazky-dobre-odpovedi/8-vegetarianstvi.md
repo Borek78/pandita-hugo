@@ -3,7 +3,7 @@ title: Vegetariánství - můžou buddhisté jíst maso?
 levelUp: "knihy/dobre-otazky-dobre-odpovedi.html"
 ---
 
-# Vegetariánství
+# 8. Vegetariánství
 
 <b>Buddhisté by měli být vegetariáni, že?</b><br>
 Ne nutně. Buddha nebyl vegetarián. Neučil své žáky, aby byli vegetariáni, a ani dnes nejsou všichni buddhisté vegetariáni. Buddha se o stravování masem vyjádřil následujícím způsobem:
