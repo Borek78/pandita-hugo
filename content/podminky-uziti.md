@@ -55,7 +55,20 @@ Těmto podmínkám vyhovuje licence [PolyForm Noncommercial License 1.0.0](https
 <div class="underline">
 Důsledek - celý web
 </div><br>
-Důsledkem předchozích dvou oprávnění je, že  kdokoli smí celý web umístit na nějakou vlastní doménu pod podmínkou, že web nebude využíván ke komerčním účelům. Zároveň smí kdokoli obsah webu měnit: doplňovat jeho obsah a vybrané části odstranit.<br>
+Důsledkem předchozích dvou oprávnění je, že kdokoli smí celý web umístit na nějakou vlastní doménu pod podmínkou, že web nebude využíván ke komerčním účelům. Zároveň smí kdokoli obsah webu měnit: doplňovat jeho obsah a vybrané části odstranit.<br>
+
+### TEXTY NA GOOGLE DISKU
+
+Texty a knihy jsou na [GOOGLE DISKU PANDITA](https://drive.google.com/drive/u/0/folders/11gL2ab0CPZUdpUUepmwEovLgplyc8VLj) uloženy v několika složkách. V každé této složce je i soubor s podmínkami, pod kterými je dovoleno použít obsah dané složky. <br><br>
+
+Například ve složce [DHARMAZDARMA.CZ](https://drive.google.com/drive/folders/1kcJlD7SzhPEEIxY2xD_4FIorSUs7EsLR) je soubor s tímto textem.
+
+<div class="citace">
+Všechny knihy a texty ve složce DHARMAZDARMA.CZ jsou k volné distribuci pro nekomerční distribuci. Jinými slovy, knihy a texty, které jsou v této složce, si může kdokoli stáhnout a je dovoleno je distribuovat pod podmínkou, že nebudou používany ke komerčním účelům; například si je kdokoli může umistít na nějakou vlastní webovou stránku. <br><br>
+
+Určitě je možné knihy a texty v této složce používat i ke komerčním účelům. V takovém případě je ale potřeba kontaktovat jejich autora a překladatele. S jejich kontaktováním můžeme pomoci.
+
+</div>
 
 ### Instrukce k užití
 
