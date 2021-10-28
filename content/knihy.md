@@ -1,5 +1,5 @@
 ---
-title: Texty
+title: Knihy - čítárna na webu, který je věnovaný jižnímu buddhismu, Pandita.cz
 menu:
   main:
     name: Texty

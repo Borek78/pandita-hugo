@@ -1,5 +1,5 @@
 ---
-title: Úvod
+title: Úvod - web věnovaný jižnímu buddhismu
 menu:
   main:
     name: Úvod
@@ -18,7 +18,7 @@ Pro všechny, kteří by se chtěli podílet na tvorbě projektu Pandita, je k d
 
 Celý tento web si můžete stáhnout pro offline studium. A nejen to, Pandita.cz vytváříme jako otevřený vzdělávací zdroj. To znamená, že kdokoli si může tento web stáhnout, umístit ho na nějakou vlastní doménu a dál s ním pracovat. Více informací najdete na stránce [Podmínky užití.](/podminky-uziti.html)<br><br><br>
 
-<a id="stahnout-panditu" href="https://github.com/Borek78/pandita/archive/refs/heads/master.zip">Stáhnout Panditu</a><br><br>
+<a id="stahnout-panditu" href="https://github.com/Borek78/pandita.cz/archive/refs/heads/master.zip">Stáhnout Panditu</a><br><br>
 
 <div style="display:none" class="underline">
 Tip

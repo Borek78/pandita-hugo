@@ -1,5 +1,5 @@
 ---
-title: Autoři
+title: Autoři - web věnovaný jižnímu buddhismu, Pandita.cz
 menu:
   main:
     name: Autoři

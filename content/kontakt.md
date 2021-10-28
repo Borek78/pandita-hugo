@@ -1,5 +1,5 @@
 ---
-title: Kontakt
+title: Kontakt - web věnovaný jižnímu buddhismu, Pandita.cz
 menu:
   main:
     name: Kontakt
