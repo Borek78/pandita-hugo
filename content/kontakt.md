@@ -8,13 +8,23 @@ menu:
 
 # Kontakt
 
+Dharma zdarma z.s.<br>
+Dlouhá 2<br>
+110 00 Praha 1<br>
+IČ 26997746
+<br>
+
 <div id="kontakt">
 <span class="border: none">
 cz.pandita@gmail.com
-</span><br>
+</span>
 
-[Facebook: Pandita.cz](https://www.facebook.com/cesky.pandita)<br>
+### Odkazy Pandita
+
+[Blog: Jak tvořit Panditu](https://borek78.github.io/jak-tvorit-panditu)<br>
+[Facebook: stránka](https://www.facebook.com/cesky.pandita)<br>
 [YouTube: PANDITA CZ](https://www.youtube.com/channel/UC1IIp3Yo_PaJPsEU9BUk1ew) <br>
+[Facebook: skupina](https://www.facebook.com/groups/185136121543284)
 
 ### Odkazy
 

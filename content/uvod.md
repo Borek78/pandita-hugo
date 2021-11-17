@@ -12,8 +12,10 @@ Projekt Pandita je věnovaný théravádovému buddhismu, který čerpá své du
 
 Součástí projektu Pandita je web [Pandita.cz](https://pandita.cz/) a YouTube kanál [PANDITA CZ](https://www.youtube.com/channel/UC1IIp3Yo_PaJPsEU9BUk1ew). Inspirací pro jeho založení je polský portál [Sasana.pl](http://sasana.pl/) a [YouTube kanál Sasana.pl](https://www.youtube.com/user/sasanaPL), který má více než 100 000 odběratelů a některá videa na tomto YouTube kanálu mají více než jeden milion zobrazení.<br><br>
 
-<div style="display:none">
-Pro všechny, kteří by se chtěli podílet na tvorbě projektu Pandita, je k dispozici web [Jak tvořit Panditu.](https://borek78.github.io/jak-tvorit-panditu)<br><br>
+<div style="isplay:none">
+
+Pokud byste se chtěli spolupodílet na tvorbě projektu Pandita, určitě je to možné. Na blogu [Jak tvořit Panditu](https://borek78.github.io/jak-tvorit-panditu) jsou instrukce pro všechny, kteří by měli chuť vytvářet titulky nebo formátovat již přeložené knihy a Buddhova slova do podoby webové stránky.<br><br>
+
 </div>
 
 Celý tento web si můžete stáhnout pro offline studium. A nejen to, Pandita.cz vytváříme jako otevřený vzdělávací zdroj. To znamená, že kdokoli si může tento web stáhnout, umístit ho na nějakou vlastní doménu a dál s ním pracovat. Více informací najdete na stránce [Podmínky užití.](/podminky-uziti.html)<br><br><br>
