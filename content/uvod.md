@@ -14,7 +14,7 @@ Součástí projektu Pandita je web [Pandita.cz](https://pandita.cz/) a YouTube 
 
 <div style="isplay:none">
 
-Pokud byste se chtěli spolupodílet na tvorbě projektu Pandita, určitě je to možné. Na blogu [Jak tvořit Panditu](https://borek78.github.io/jak-tvorit-panditu) jsou instrukce pro všechny, kteří by měli chuť vytvářet titulky nebo formátovat již přeložené knihy a Buddhova slova do podoby webové stránky.<br><br>
+Pokud byste se chtěli spolupodílet na tvorbě projektu Pandita, určitě je to možné. Na blogu [Jak tvořit Panditu](https://borek78.github.io/jak-tvorit-panditu) jsou návody pro všechny, kteří by chtěli věnovat svůj čas tvorbě obsahu o Buddhově učení.<br><br>
 
 </div>
 

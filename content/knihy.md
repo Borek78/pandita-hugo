@@ -1,5 +1,5 @@
 ---
-title: Knihy - čítárna na webu, který je věnovaný jižnímu buddhismu, Pandita.cz
+title: Finance - Pandita.cz
 menu:
   main:
     name: Texty

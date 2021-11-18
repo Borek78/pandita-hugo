@@ -24,7 +24,10 @@ cz.pandita@gmail.com
 [Blog: Jak tvořit Panditu](https://borek78.github.io/jak-tvorit-panditu)<br>
 [Facebook: stránka](https://www.facebook.com/cesky.pandita)<br>
 [YouTube: PANDITA CZ](https://www.youtube.com/channel/UC1IIp3Yo_PaJPsEU9BUk1ew) <br>
+
+<span style="display:none">
 [Facebook: skupina](https://www.facebook.com/groups/185136121543284)
+</span>
 
 ### Odkazy
 
