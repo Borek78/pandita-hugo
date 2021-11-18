@@ -11,7 +11,7 @@ menu:
 Dharma zdarma z.s.<br>
 Dlouhá 2<br>
 110 00 Praha 1<br>
-IČ 26997746
+IČ: 26997746
 <br>
 
 <div id="kontakt">
@@ -24,6 +24,8 @@ cz.pandita@gmail.com
 [Blog: Jak tvořit Panditu](https://borek78.github.io/jak-tvorit-panditu)<br>
 [Facebook: stránka](https://www.facebook.com/cesky.pandita)<br>
 [YouTube: PANDITA CZ](https://www.youtube.com/channel/UC1IIp3Yo_PaJPsEU9BUk1ew) <br>
+
+[Transparentní účet: 2174622001/5500](finance.html)
 
 <span style="display:none">
 [Facebook: skupina](https://www.facebook.com/groups/185136121543284)
