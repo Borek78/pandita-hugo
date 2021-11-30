@@ -1,7 +1,10 @@
-/*ul li {
-  text-align: left !important;
-  text-indent: 0px !important;
-}*/
+.financovani {
+  font-size: 14px;
+
+  margin-bottom: 5px;
+  margin-top: 0px;
+  color: rgb(190, 106, 73) d;
+}
 
 .transparentni-ucet {
   font-weight: old;
