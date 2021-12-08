@@ -8,7 +8,7 @@ menu:
 
 # NOVINKY
 
-<b>22.11. 2021</b> Zveřejnění blogu [Jak tvořit Panditu](https://borek78.github.io/jak-tvorit-panditu/index.html). Nově je také k dispozici stránka [Finance](finance.html).
+<b>22.11. 2021</b> Zveřejnění blogu [Jak tvořit Panditu](https://borek78.github.io/jak-tvorit-panditu/index.html). Nově je také k dispozici stránka [Finance](finance.html).<br><br>
 
 <b>12.11. 2021</b> Publikování nových stránek Pandita.cz <br><br>
 

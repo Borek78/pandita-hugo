@@ -26,9 +26,9 @@ Celý tento web si můžete stáhnout pro offline studium. A nejen to, Pandita.c
 Tip
 </div>
 
-<b>Tip:</b> Pokud kliknete na horní navigační lištu, kamkoli mimo viditelné odkazy, dostanete se zpět do horní části stránky. Tato funkce je k dispozici na všech stránkách.<br>
+<b>Tip:</b> Pokud kliknete na horní navigační lištu, kamkoli mimo viditelné odkazy, dostanete se zpět do horní části stránky. Tato funkce je k dispozici na všech stránkách.<br><br>
 
-<div class="citace">
+<div class="citace" style="display:none">
 <h2 class="financovani">Financování</h2>
 
 Projekt Pandita můžete finančně podpořit. Vedeme transparentní účet u Reifeisenbanky, který najdete na [stránce Finance](finance.html). Většinu finančních budeme pravděpodobně používat na tvorbu audioknih.
