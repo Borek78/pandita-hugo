@@ -12,11 +12,12 @@ Dharma zdarma z.s.<br>
 Dlouhá 2<br>
 110 00 Praha 1<br>
 IČ: 26997746
-<br>
+<br><br>
 
 <div id="kontakt">
 <span class="border: none">
-cz.pandita@gmail.com
+email: cz.pandita@gmail.com<br>
+tel.: 776 616 951<br>
 </span>
 
 ### Odkazy Pandita
@@ -25,8 +26,6 @@ cz.pandita@gmail.com
 [Facebook: stránka Pandita.cz](https://www.facebook.com/cesky.pandita)<br>
 [Facebook: skupina Jižní buddhismus](https://www.facebook.com/groups/2614533595518987/)<br>
 [YouTube: PANDITA CZ](https://www.youtube.com/channel/UC1IIp3Yo_PaJPsEU9BUk1ew) <br>
-
-[Transparentní účet: 2174622001/5500](finance.html)
 
 ### Odkazy
 

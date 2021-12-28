@@ -14,24 +14,50 @@ Součástí projektu Pandita je web [Pandita.cz](https://pandita.cz/) a YouTube 
 
 <div style="isplay:none">
 
-Pokud byste se chtěli spolupodílet na tvorbě projektu Pandita, určitě je to možné. Na blogu [Jak tvořit Panditu](https://borek78.github.io/jak-tvorit-panditu) jsou návody pro všechny, kteří by chtěli věnovat svůj čas tvorbě obsahu o Buddhově učení.<br><br>
+Pokud byste se chtěli spolupodílet na tvorbě projektu Pandita, určitě je to možné. Na blogu [Jak tvořit Panditu](https://borek78.github.io/jak-tvorit-panditu) jsou návody pro všechny, kteří by chtěli věnovat svůj čas tvorbě obsahu o Buddhově učení.
 
-</div>
+</div><br>
 
-Celý tento web si můžete stáhnout pro offline studium. A nejen to, Pandita.cz vytváříme jako otevřený vzdělávací zdroj. To znamená, že kdokoli si může tento web stáhnout, umístit ho na nějakou vlastní doménu a dál s ním pracovat. Více informací najdete na stránce [Podmínky užití.](/podminky-uziti.html)<br><br><br>
+Celý tento web si můžete stáhnout pro offline studium. A nejen to, Pandita.cz vytváříme jako otevřený vzdělávací zdroj. To znamená, že kdokoli si může tento web stáhnout, umístit ho na nějakou vlastní doménu a dál s ním pracovat. Více informací najdete na stránce [Podmínky užití.](/podminky-uziti.html)<br /><br /><br />
 
-<a id="stahnout-panditu" href="https://github.com/Borek78/pandita.cz/archive/refs/heads/master.zip">Stáhnout Panditu</a><br><br>
+<a
+id="stahnout-panditu"
+href="https://github.com/Borek78/pandita.cz/archive/refs/heads/master.zip"> Stáhnout Panditu</a> <br /><br />
 
-<div style="display:none" class="underline">
-Tip
-</div>
+<div style="display: none" class="underline">Tip</div>
 
-<b>Tip:</b> Pokud kliknete na horní navigační lištu, kamkoli mimo viditelné odkazy, dostanete se zpět do horní části stránky. Tato funkce je k dispozici na všech stránkách.<br><br>
+<b>Tip:</b> Pokud kliknete na horní navigační lištu, kamkoli mimo viditelné odkazy, dostanete se zpět do horní části stránky. Tato funkce je k dispozici na všech stránkách.<br /><br />
 
-<div class="citace" style="display:none">
-<h2 class="financovani">Financování</h2>
+<div class="citace" style="display: none">
+  <h2 class="financovani">Financování</h2>
 
-Projekt Pandita můžete finančně podpořit. Vedeme transparentní účet u Reifeisenbanky, který najdete na [stránce Finance](finance.html). Většinu finančních budeme pravděpodobně používat na tvorbu audioknih.
+Projekt Pandita můžete finančně podpořit. Celý tento web si můžete stáhnout pro offline studium. A nejen to, Pandita.cz vytváříme jako otevřený vzdělávací zdroj. To znamená, že kdokoli si může tento web stáhnout, umístit ho na nějakou vlastní doménu a dál s ním pracovat. Více informací najdete na stránce [Podmínky užití.](/podminky-uziti.html)<br /><br /><br />
+
+<a
+    id="stahnout-panditu"
+    href="https://github.com/Borek78/pandita.cz/archive/refs/heads/master.zip"
+    >Stáhnout Panditu</a>
+
+> <br /><br />
+
+  <div style="display: none" class="underline">Tip</div>
+
+<b>Tip:</b> Pokud kliknete na horní navigační lištu, kamkoli mimo viditelné
+odkazy, dostanete se zpět do horní části stránky. Tato funkce je k dispozici
+na všech stránkách.<br /><br />
+
+  <div class="citace" style="display: none">
+    <h2 class="financovani">Financování</h2>
+
+    Projekt Pandita můžete finančně podpořit. Vedeme transparentní účet u
+    Reifeisenbanky, který najdete na [stránce Finance](finance.html). Většinu
+    finančních budeme pravděpodobně používat na tvorbu audioknih.
+
+  </div>
+
+Vedeme transparentní účet u Reifeisenbanky, který najdete na [stránce
+Finance](finance.html). Většinu finančních budeme pravděpodobně používat na
+tvorbu audioknih.
 
 </div>
 

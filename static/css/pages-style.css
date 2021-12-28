@@ -7,8 +7,9 @@
 }
 
 .transparentni-ucet {
-  font-weight: old;
-  font-size: 20px;
+  font-weight: bold;
+
+  color: rgb(42, 42, 42);
 }
 
 h6 {
