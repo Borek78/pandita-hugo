@@ -13,6 +13,7 @@ menu:
 [ASHIN OTTAMA](/autori/ashin-ottama.html)<br>
 [ASHIN SARANA](/autori/ashin-sarana.html)<br>
 [BHANTE SUJIVA](/autori/bhante-sujiva.html)<br>
+[K. SRI DHAMMANANDA](/autori/k-sri-dhammananda.html)<br>
 [SHRAVASTI DHAMMIKA](/autori/shravasti-dhammika.html)<br>
 [VISU TEOH](/autori/visu-teoh.html)<br>
 
