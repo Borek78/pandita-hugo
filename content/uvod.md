@@ -16,18 +16,21 @@ Součástí projektu Pandita je web [Pandita.cz](https://pandita.cz/) a YouTube 
 
 Pokud byste se chtěli spolupodílet na tvorbě projektu Pandita, určitě je to možné. Na blogu [Jak tvořit Panditu](https://borek78.github.io/jak-tvorit-panditu) jsou návody pro všechny, kteří by chtěli věnovat svůj čas tvorbě obsahu o Buddhově učení.
 
-### Audioknihy
+### Aktuální projekty
 
 Věříme, že audioknihy a česká znění videí jsou jeden z nejlepších způsobů, jak seznámit českou veřejnost s Buddhovým učením. Finanční prostředky, které obdržíme od našich sponzorů, budou věnovány na jejich tvorbu.<br><br>
 
-V tuto chvíli plánujeme vytvořit audioknihu ze dvou níže uvedených knih. Obě byly již přeloženy do českého jazyka. K tvorbě audioknih a jejich distribuci prostřednictvím YouTube máme souhlas jak od vlastníků práv k anglickému originálu, tak od českých překladatelů.
+V tuto chvíli plánujeme vytvořit audioknihy a česká znění videí z textů, které jsou uvdeny níže. Oba texty byly již přeloženy do českého jazyka. K tvorbě audio nahrávek a jejich distribuci prostřednictvím YouTube máme souhlas jak od vlastníků autorských práv k anglickému originálu, tak od českých překladatelů.
 
 <ul>
-<li>Dobré otázky, dobré odpovědi; Sharavasti Dhammika</li>
-<li>Jak se věnovat buddhismu; K. Sri Dhammananda</li>
+<li>Čtyři způsoby, jak se pustit; Ajahn Brahm (audiokniha)</li>
+<li>Čtyři způsoby, jak se pustit; Ajahn Brahm (české znění)</li>
+<li>Dobré otázky, dobré odpovědi; Sharavasti Dhammika (audiokniha)</li>
 </ul>
 
-Pro tvorbu audioknih ze dvou výše uvedených knih hledáme sponsory. Pododrobné informace najdete na [stránce FINANCE](finance.html)
+Z každé přednášky Ajahna Brahma budeme tvořit jak audioknihu, tak české znění. Proto je jeho přenáška zařazena do seznamu dvakrát. <br><br>
+
+Pro tvorbu všech výše ze dvou výše uvedených knih hledáme sponsory. Pododrobné informace najdete na [stránce FINANCE](finance.html)
 
 ### Stažení webu
 

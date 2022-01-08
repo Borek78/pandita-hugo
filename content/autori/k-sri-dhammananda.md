@@ -20,4 +20,4 @@ K jeho nejznámějším knihám patří:
 <li>Poklady buddhistické moudrosti (Gems of Buddhist Wisdom)</li>
 </ul>
 
-Jeho kniha Jak se věnovat buddhismus je k dispozici na [google disku PANDITA](https://drive.google.com/drive/u/1/folders/11gL2ab0CPZUdpUUepmwEovLgplyc8VLj) ve složce DHARMAZDARMA.CZ.
+Jeho kniha Jak se věnovat buddhismu je k dispozici na [google disku PANDITA](https://drive.google.com/drive/u/1/folders/11gL2ab0CPZUdpUUepmwEovLgplyc8VLj) ve složce DHARMAZDARMA.CZ.
