@@ -24,8 +24,8 @@ tel.: 776 616 951<br>
 
 [Blog: Jak tvořit Panditu](https://borek78.github.io/jak-tvorit-panditu)<br>
 [Facebook: stránka Pandita.cz](https://www.facebook.com/cesky.pandita)<br>
-[Facebook: skupina Jižní buddhismus](https://www.facebook.com/groups/2614533595518987/)<br>
 [YouTube: PANDITA CZ](https://www.youtube.com/channel/UC1IIp3Yo_PaJPsEU9BUk1ew) <br>
+
 
 ### Odkazy
 

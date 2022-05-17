@@ -1,3 +1,28 @@
+.bold {font-weight: bold}
+
+
+#page .no-border-bottom  a {
+  border-bottom:none
+}
+
+.uk-flag {
+  width:39px;
+  height: 13px;
+ order: 1px solid blue;
+ margin-bottom:-1px
+ 
+}
+
+.discord {
+  color: rgb(117, 117, 117) !important;
+  margin-top: 9px;
+  
+}
+
+.discord:hover {
+  color: black !important;
+}
+
 .financovani {
   font-size: 14px;
 
@@ -395,3 +420,29 @@ h2 {
   margin-top: 35px;
   border: 1px dotted #b7542d85;
 }
+
+ div.finance-buttons {
+  width: 150px;
+  margin-left: auto;
+  margin-right: auto;
+ 
+}
+
+#page a.finance-cesky-tlacitko {
+  border-bottom: 3px solid green;
+  margin-right:20px;
+  padding-bottom:4px
+}
+
+#page a.finance-cesky-tlacitko:hover {
+ 
+  border-bottom: 3px solid green;
+}
+
+#page a.finance-anglicky-tlacitko {
+  border-bottom: 0px;
+  padding-bottom:4px;
+  margin-left:25px
+}
+
+

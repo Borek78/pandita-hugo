@@ -18,31 +18,29 @@ Pokud byste se chtěli spolupodílet na tvorbě projektu Pandita, určitě je to
 
 ### Aktuální projekty
 
-Věříme, že audioknihy a česká znění videí jsou jeden z nejlepších způsobů, jak seznámit českou veřejnost s Buddhovým učením. Finanční prostředky, které obdržíme od našich sponzorů, budou věnovány na jejich tvorbu.<br><br>
+Věříme, že audioknihy jsou jeden z nejlepších způsobů, jak seznámit českou veřejnost s Buddhovým učením. Finanční prostředky, které obdržíme od našich sponzorů, budou věnovány na jejich tvorbu.<br><br>
 
-V tuto chvíli plánujeme vytvořit audioknihy a česká znění videí z textů, které jsou uvdeny níže. Oba texty byly již přeloženy do českého jazyka. K tvorbě audio nahrávek a jejich distribuci prostřednictvím YouTube máme souhlas jak od vlastníků autorských práv k anglickému originálu, tak od českých překladatelů.
+V tuto chvíli plánujeme vytvořit audioknihy z textů, které jsou uvedeny níže. Oba byly již přeloženy do českého jazyka. K jejich tvorbě a distribuci prostřednictvím YouTube máme souhlas jak od vlastníků autorských práv k anglickému originálu, tak od českých překladatelů.
 
 <ul>
-<li>Čtyři způsoby, jak se pustit; Ajahn Brahm (audiokniha)</li>
-<li>Čtyři způsoby, jak se pustit; Ajahn Brahm (české znění)</li>
-<li>Dobré otázky, dobré odpovědi; Sharavasti Dhammika (audiokniha)</li>
+
+<li> <a href="https://drive.google.com/file/d/1Pijb_fdh8-nAg0sqF2Jydsg26HUCx94o/view?usp=sharing"> Meditace mettá; Teoh Visu </a></li>
+
+<li><a href="https://drive.google.com/file/d/1_YSy0hrDr8WdFZ0TU7XupDDbIiNAj1bT/view?usp=sharing">Dobré otázky, dobré odpovědi; Shravasti Dhammika </a></li>
+
+<li><a href="https://drive.google.com/file/d/192LLxFtMQWblDq5OQD2ZPE7sncBoZ2Cw/view?usp=sharing">Učíme se být v klidu sami se sebou; Ajahn Brahm </a></li>
+
+<li><a href="https://drive.google.com/file/d/1XxalvczaoyzXwAwpkLkxwIB9r1_3lPT2/view?usp=sharing">Dhammapada: Buddhova slova </a></li>
 </ul>
 
-Z každé přednášky Ajahna Brahma budeme tvořit jak audioknihu, tak české znění. Proto je jeho přenáška zařazena do seznamu dvakrát. <br><br>
-
-Pro tvorbu všech výše ze dvou výše uvedených knih hledáme sponsory. Pododrobné informace najdete na [stránce FINANCE](finance.html)
-
-### Stažení webu
-
-Celý tento web si můžete stáhnout pro offline studium. A nejen to, Pandita.cz vytváříme jako otevřený vzdělávací zdroj. To znamená, že kdokoli si může tento web stáhnout, umístit ho na nějakou vlastní doménu a dál s ním pracovat. Více informací najdete na stránce [Podmínky užití.](/podminky-uziti.html)<br /><br /><br />
-
-<a
-id="stahnout-panditu"
-href="https://github.com/Borek78/pandita.cz/archive/refs/heads/master.zip"> Stáhnout Panditu</a> <br /><br />
+Pro tvorbu audioknih z výše uvedených textů hledáme sponzory. Pododrobné informace najdete na [stránce FINANCE](finance.html)<br><br />
 
 <b>Tip:</b> Pokud kliknete na horní navigační lištu, kamkoli mimo viditelné
 odkazy, dostanete se zpět do horní části stránky. Tato funkce je k dispozici
 na všech stránkách.<br /><br />
+<a
+id="stahnout-panditu"
+href="https://github.com/Borek78/pandita.cz/archive/refs/heads/master.zip"> Stáhnout Panditu</a> <br /><br />
 
 <div class="underline" style="margin-bottom:20px">
 Sociální sítě
@@ -53,9 +51,9 @@ Sociální sítě
 </a><br>
 
 <a style="border: none" href="https://www.youtube.com/channel/UC1IIp3Yo_PaJPsEU9BUk1ew">
-<ion-icon class="ion-icon youtube" name="logo-youtube">
-</ion-icon>
-</a>
+
+<ion-icon class="ion-icon youtube" name="logo-youtube"></ion-icon>
+</a><br>
 
 <script src="/js/arrow-script.js"></script>
 
