@@ -57,7 +57,7 @@ All the funds received are used to hire proffesional voice-over actors. They rec
 
 <b style="margin-bottom:7px">I can support you financially, I understand that. Can I support your activities in any other way?</b>
 
-This possibility is a bit unusual but we think that it might work. It is more suitabale for those who are interested in volunteering and audiobook production.<br><br>
+Yes, there is another way to support us. It is more suitabale for those who are interested in volunteering and audiobook production.<br><br>
 
 Surprisingly, many of the Czech voice-over actors speak English and you can contact them online. You can hire them, pay them for the audiobook and when the audiobook is finished, you can send it to us. <br><br>
 
