@@ -1,22 +1,21 @@
-.bold {font-weight: bold}
+.bold {
+  font-weight: bold;
+}
 
-
-#page .no-border-bottom  a {
-  border-bottom:none
+#page .no-border-bottom a {
+  border-bottom: none;
 }
 
 .uk-flag {
-  width:39px;
+  width: 39px;
   height: 13px;
- order: 1px solid blue;
- margin-bottom:-1px
- 
+  order: 1px solid blue;
+  margin-bottom: -1px;
 }
 
 .discord {
   color: rgb(117, 117, 117) !important;
   margin-top: 9px;
-  
 }
 
 .discord:hover {
@@ -133,6 +132,27 @@ span.green-button {
   border-radius: 10px;
   color: #b7542d;
   font-weight: bold;
+}
+
+#text-in-page .a-button,
+#page #kontakt a.a-button {
+  display: block;
+  border: 2px dotted #b7542d;
+  width: 160px;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+  border-radius: 10px;
+  color: #b7542d;
+  font-weight: bold;
+}
+
+#text-in-page .a-button:hover,
+#page #kontakt a.a-button:hover {
+  background-color: #b37800;
+  border: 2px dotted #b37800;
+
+  color: white;
 }
 
 .pdf:hover {
@@ -421,28 +441,24 @@ h2 {
   border: 1px dotted #b7542d85;
 }
 
- div.finance-buttons {
+div.finance-buttons {
   width: 150px;
   margin-left: auto;
   margin-right: auto;
- 
 }
 
 #page a.finance-cesky-tlacitko {
   border-bottom: 3px solid green;
-  margin-right:20px;
-  padding-bottom:4px
+  margin-right: 20px;
+  padding-bottom: 4px;
 }
 
 #page a.finance-cesky-tlacitko:hover {
- 
   border-bottom: 3px solid green;
 }
 
 #page a.finance-anglicky-tlacitko {
   border-bottom: 0px;
-  padding-bottom:4px;
-  margin-left:25px
+  padding-bottom: 4px;
+  margin-left: 25px;
 }
-
-

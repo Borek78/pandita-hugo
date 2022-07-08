@@ -38,9 +38,10 @@ Pro tvorbu audioknih z výše uvedených textů hledáme sponzory. Pododrobné i
 <b>Tip:</b> Pokud kliknete na horní navigační lištu, kamkoli mimo viditelné
 odkazy, dostanete se zpět do horní části stránky. Tato funkce je k dispozici
 na všech stránkách.<br /><br />
+
 <a
 id="stahnout-panditu"
-href="https://github.com/Borek78/pandita.cz/archive/refs/heads/master.zip"> Stáhnout Panditu</a> <br /><br />
+href="https://github.com/Borek78/pandita.cz/archive/refs/heads/master.zip">Stáhnout Panditu</a> <br /><br />
 
 <div class="underline" style="margin-bottom:20px">
 Sociální sítě
