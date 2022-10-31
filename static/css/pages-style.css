@@ -1,3 +1,21 @@
+div p span.permission-number {
+  font-weight: bold;
+  color: #b7542d;
+}
+
+p img.img-class {
+  width: 300px;
+  margin-top: 30px;
+  margin-inline: auto;
+  display: block;
+  margin-bottom: 70px;
+}
+
+.smile-emoji {
+  position: relative !important;
+  top: 2px !important;
+}
+
 .bold {
   font-weight: bold;
 }

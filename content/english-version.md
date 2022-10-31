@@ -5,7 +5,7 @@ levelUp: "index.html"
 
 # English version
 
-We are a small group of Theravada Buddhists from the Czech Republic. We wish that there is more Theravada Buddhism in our country and, therefore, we distribute Dhamma books and videos via our Pandita.cz website and via [YouTube channel PANDITA CZ.](https://www.youtube.com/channel/UC1IIp3Yo_PaJPsEU9BUk1ew)<br><br>
+We are a small group of Theravada Buddhists from the Czech Republic. We wish that there is more Theravada Buddhism in our country and, therefore, we distribute Dhamma books and videos via our Pandita.cz website and via [YouTube channel Jižní buddhismus.](https://www.youtube.com/channel/UC1IIp3Yo_PaJPsEU9BUk1ew)<br><br>
 
 We are inspired by the Polish [YouTube channel Sasana.pl.](https://www.youtube.com/c/sasanaPL) Some of the videos on this channel have more than one million views and the channel has more than 115 thousand subscribers.<br><br>
 
@@ -35,20 +35,16 @@ If you are considering to sponsor our activities, please visit our <b>For Sponso
 id="stahnout-panditu"
 href="for-sponsors.html">For sponsors</a><br>
 
-### Discord
+### Facebook Group
 
 We are interested in spreading the Dhamma and we would like to meet people with the same interest. We also would be very happy to share our experiences with the international Buddhist community.<br><br>
 
 It would be good if there was a place where Dhamma sharing enthusiasts from all the world could meet and share their experiences and good practices.<br><br>
 
-For these purposes, we have started a Discord server. The link below is an invitation. The name of our Discord is:<br><br>
-
-[Dhamma YouTube Creators](https://discord.com/channels/968117463738908692/968117463738908695)<br><br>
-
-Discord is a social network that is becoming increasingly popular. Facebook, Twitter and Instagram have been created to present the user and his views, life, attitudes etc. Discord is different. It was created for people who share the same interest. It is much more suitible for people who have something in common. In addition to that, there are no adds on Discord. <br><br>
+For these purposes, we have started a Facebook group. The name of the group is [About spreading the Dhamma.](https://discord.com/channels/968117463738908692/968117463738908695)<br><br>
 
 ### Contact
 
-You certainly can contact us via our Discord server. However, you can also contact us via our email: <span class="no-border-bottom bold">cz.pandita@gmail.com.</span>
+You certainly can contact us via our Facebook group. However, you can also contact us via our email: <span class="no-border-bottom bold">cz.pandita@gmail.com.</span>
 
 <script src="/js/arrow-script.js"></script>
