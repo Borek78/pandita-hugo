@@ -3,7 +3,7 @@ title: About spreading the Dhamma
 levelUp: "english-version.html"
 ---
 
-# About spreading the Dhamma
+# Buddhist Content Creators
 
 My name is Dalibor (my nickname is Borek) and I am a Buddhist volunteer from the Czech Republic. My interest is spreading the Dhamma in my homeland. I wish Buddha´s teachings are more accessible to my fellow citizens.<br><br>
 
