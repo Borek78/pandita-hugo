@@ -41,7 +41,7 @@ We are interested in spreading the Dhamma and we would like to meet people with 
 
 It would be good if there was a place where Dhamma sharing enthusiasts from all the world could meet and share their experiences and good practices.<br><br>
 
-For these purposes, we have started a Facebook group. The name of the group is [About spreading the Dhamma.](https://discord.com/channels/968117463738908692/968117463738908695)<br><br>
+For these purposes, we have started a Facebook group. The name of the group is [Buddhist Content Creators.](https://discord.com/channels/968117463738908692/968117463738908695)<br><br>
 
 ### Contact
 

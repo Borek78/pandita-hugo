@@ -114,7 +114,7 @@ Many Dhamma books have been written in English but there are not many Dhamma aud
 
 ### Facebook
 
-For more info, please visit the [About Spreading the Dhamma facebook group.](https://www.facebook.com/groups/506953381291574)<br><br>
+For more info, please visit the [Buddhist Content Creators](https://www.facebook.com/groups/506953381291574) Facebook Group.<br><br>
 
 Borek<br>
 29.10. 2022<br><br>
