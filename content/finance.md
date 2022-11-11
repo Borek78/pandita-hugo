@@ -50,7 +50,7 @@ V závorce jsou odhadované náklady na načtení knihy. Pokud byste se chtěli 
 ### Otázky a odpovědi k financování
 
 <b style="margin-bottom:7px">Jaké máte provozní náklady?</b><br>
-Jediné provozní náklady, které nyní máme, jsou náklady do domény [Pandita.cz](https://www.pandita.cz/) (175 kč ročně) a [dharmazdarma.cz](http://www.dharmazdarma.cz/stary-web.php) (194 kč ročně). Náklady na webhosting již nemáme, protože jsme začali používat statické stránky, ke kterým není těžké najít webhosting zdarma. <br><br>
+Jediné provozní náklady, které nyní máme, jsou náklady do doménu [Pandita.cz](https://www.pandita.cz/) (cca 200 kč ročně). Náklady na webhosting již nemáme, protože jsme začali používat statické stránky, ke kterým není těžké najít webhosting zdarma. <br><br>
 
 <b style="margin-bottom:7px">Pokud zašlu peníze na účet projektu Pandita.cz, jak budou využity?</b><br>
 Finanční prostředky budeme používat na tvorbu audioknih. To znamená, že váš finanční dar použijeme buď na profesionální načtení již přeloženého textu nebo na překlad knih/textů do českého jazyka. <br><br>

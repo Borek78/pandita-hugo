@@ -50,7 +50,7 @@ The re-use and distribution of the Czech version of Ajahn Brahm´s talk "Learn t
 ### Question and Answers
 
 <b style="margin-bottom:7px">What are your operation costs?</b><br>
-Every year we have to pay for two internet domains: [Pandita.cz](https://www.pandita.cz/) (175 CZK) and [dharmazdarma.cz](http://www.dharmazdarma.cz/stary-web.php) (194 CZK). In 2021 we have started to use static pages and, as a result, we do not have to pay the yearly fee for webhosting anymore. <br><br>
+Every year we have to pay the internet domain [Pandita.cz](https://www.pandita.cz/) (approx. 200 CZK). In 2021 we have started to use static pages and, as a result, we do not have to pay the yearly fee for webhosting anymore. <br><br>
 
 <b style="margin-bottom:7px">How do you make use of the funds that you receive from your donors?</b><br>
 All the funds received are used to hire proffesional voice-over actors. They record the audiobooks for us. Presently we have enough books (Czech translations) that we can use for the making of audiobooks. <br><br>
