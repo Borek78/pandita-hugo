@@ -16,8 +16,8 @@ IČ: 26997746
 
 <div id="kontakt">
 <span class="border: none">
-email: cz.pandita@gmail.com<br>
-tel.: 776 616 951<br>
+Dalibor (Borek) Pavlík<br>
+email: dalibor.pavlik@gmail.com<br>
 </span>
 
 ### Odkazy Pandita

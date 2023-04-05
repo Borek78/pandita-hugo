@@ -1,3 +1,7 @@
+.iframe {
+  margin-inline: auto;
+}
+
 .autori-photo {
   border-radius: 20px;
   width: 200px;
@@ -5,6 +9,11 @@
   margin-left: 20px;
   margin-top: 10px;
   margin-bottom: 10px;
+}
+
+.borek-photo {
+  width: 80px;
+  border-radius: 10px;
 }
 
 .pandita-logo {

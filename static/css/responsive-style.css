@@ -154,6 +154,15 @@ a.blue:hover {
   #div-pata {
     width: auto;
   }
+
+  .iframe {
+    margin-inline: auto;
+    width: 350px;
+    height: 190px;
+    border: none;
+
+    display: block;
+  }
 }
 
 @media only screen and (max-width: 400px) {
@@ -192,5 +201,35 @@ a.blue:hover {
     -ms-transform: rotate(90deg);
     -o-transform: rotate(90deg);
     transform: rotate(90deg);
+  }
+}
+
+@media only screen and (max-width: 380px) {
+  .iframe {
+    margin-inline: auto;
+    width: 280px;
+    height: 145px;
+    border: none;
+    display: block;
+  }
+}
+
+@media only screen and (max-width: 320px) {
+  .iframe {
+    margin-inline: auto;
+    width: 220px;
+    height: 115px;
+    border: none;
+    display: block;
+  }
+}
+
+@media only screen and (max-width: 260px) {
+  .iframe {
+    margin-inline: auto;
+    width: 180px;
+    height: 95px;
+    border: none;
+    display: block;
   }
 }

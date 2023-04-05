@@ -1,5 +1,5 @@
 ---
-title: About spreading the Dhamma
+title: Buddhist Content Creators
 levelUp: "english-version.html"
 ---
 
@@ -32,7 +32,7 @@ This video is in the Polish language. The voice of the Polish voice-over artist 
 [Nebojácnost | Ajahn Brahm | [české znění] | 21.11.2008](https://www.youtube.com/watch?v=ghzeabtOdro&t=1341s)<br>
 This video is in the Czech language. The sound of the Czech voice-over artist is full of emotions. In addition to that, there are also emotions in the original voice of the speaker, Ajahn Brahm.<br><br>
 
-Both of the voice-overs above are produced in different ways and both of them work are very successful.<br><br>
+Both of the voice-overs above are produced in different ways and both of them are very successful.<br><br>
 
 [Čtyři způsoby, jak se pustit](https://www.youtube.com/watch?v=n0MExRdukJY)<br>
 This video is my work. I have translated the Four Ways of Letting Go by Ajahn Brahm into the Czech language and I asked a local voice-over artist to create an audiobook out of my translation. The length of the audiobook is 1h and 6 minutes. The length of the original video is 55 minutes. That means that the audio and the video cannot be synchronized.<br><br>
