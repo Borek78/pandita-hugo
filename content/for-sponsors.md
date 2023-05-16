@@ -28,13 +28,13 @@ Our sponsors can also decide to pay for the making of one of the audiobooks in t
 If you decide to pay for the making of one of the audiobooks, we will consider you to be one of our PATRONS and we will be happy to give you access to our YouTube channel. Once you have access to our YouTube channel, you will be able to see all the statistics, study them and analyze them. Please let us know if you are interested.<br>
 
 <ul>
-<li><a href="https://drive.google.com/file/d/1Pijb_fdh8-nAg0sqF2Jydsg26HUCx94o/view?usp=sharing">Metta Meditation, Teoh Visu [ 6000 CZK (approx. 278 USD) ]</a></li>
+<li><a href="https://drive.google.com/file/d/1Pijb_fdh8-nAg0sqF2Jydsg26HUCx94o/view?usp=sharing">Metta Meditation, Teoh Visu [ 6000 CZK (approx. 285 USD) ]</a></li>
 
-<li><a href="https://drive.google.com/file/d/1_YSy0hrDr8WdFZ0TU7XupDDbIiNAj1bT/view?usp=sharing">Good Questions, Good Answers; Shravasti Dhammika [ 10 000 CZK (approx. 444 USD) ]</a></li>
+<li><a href="https://drive.google.com/file/d/1_YSy0hrDr8WdFZ0TU7XupDDbIiNAj1bT/view?usp=sharing">Good Questions, Good Answers; Shravasti Dhammika [ 10 000 CZK (approx. 480 USD) ]</a></li>
 
-<li><a href="https://drive.google.com/file/d/1XxalvczaoyzXwAwpkLkxwIB9r1_3lPT2/view?usp=sharing">Dhammapada: Buddha´s words [ 10 000 CZK (approx. 444 USD) ]</a></li>
+<li><a href="https://drive.google.com/file/d/1XxalvczaoyzXwAwpkLkxwIB9r1_3lPT2/view?usp=sharing">Dhammapada: Buddha´s words [ 10 000 CZK (approx. 480 USD) ]</a></li>
 
-<li><a href="https://drive.google.com/file/d/192LLxFtMQWblDq5OQD2ZPE7sncBoZ2Cw/view?usp=sharing">Learn to be at peace with yourself, Ajahn Brahm [ 4000 CZK (approx. 178 USD) ] </a></li>
+<li><a href="https://drive.google.com/file/d/192LLxFtMQWblDq5OQD2ZPE7sncBoZ2Cw/view?usp=sharing">Learn to be at peace with yourself, Ajahn Brahm [ 5000 CZK (approx. 240 USD) ] </a></li>
 </ul>
 
 The links above will take you to Czech translations of English written (or spoken) books and talks. However, to help our sponsors understand what we are doing, we have used English titles on this page.<br><br>
